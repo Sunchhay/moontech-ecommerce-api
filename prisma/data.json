@@ -1,0 +1,4626 @@
+[
+    {
+        "id": "2943dedf-1c2c-4d3c-9dd4-64b14de70f76",
+        "nameEn": "Beauty Accessories ",
+        "nameKm": "គ្រឿងសម្អាងផ្សេងៗ",
+        "nameZh": "美容配件",
+        "enabled": true,
+        "menuStructure": "grid",
+        "iconName": "icon-remote-shutter",
+        "media": null,
+        "displayOrder": 0,
+        "items": [
+            {
+                "id": "8990b84e-0433-4aaa-873c-c7aa5c484ebf",
+                "code": "",
+                "tag": "",
+                "nameEn": "Hair Removal Machine ",
+                "nameKm": "ម៉ាស៊ីនដករោមក្លៀក",
+                "nameZh": "腋毛脱毛机",
+                "descriptionEn": "Hair Removal Machine — quality you can feel in every use. Category: Beauty Accessories. Rated 55/100 by our internal seeding model for demo purposes. Price: $5.46. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 5.459057071960298,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "7241463a-fa9d-446a-98a4-0c89ba287d8b",
+                        "uri": "https://cdn.xync.co/xync-menu/92c74e23-6e59-4220-8bea-86b198ed40d2.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 4,
+                "badges": [
+                    "Deal"
+                ],
+                "compareAtPrice": 7.15,
+                "unit": "box",
+                "unitLabel": "/pack"
+            }
+        ]
+    },
+    {
+        "id": "42bf1f96-bfae-4878-9ce8-6f64d9681edd",
+        "nameEn": "Baby Bath ",
+        "nameKm": "សាប៊ូកូនង៉ា",
+        "nameZh": "婴儿香皂",
+        "enabled": true,
+        "menuStructure": "grid",
+        "iconName": "icon-baby-bottle",
+        "media": null,
+        "displayOrder": 0,
+        "items": [
+            {
+                "id": "8b0995aa-b0cc-491f-830a-daaa810bc2a1",
+                "code": "",
+                "tag": "",
+                "nameEn": "DMP Blue",
+                "nameKm": "សាប៊ូDMPខៀវ",
+                "nameZh": "蓝色DMP肥皂",
+                "descriptionEn": "DMP Blue — quality you can feel in every use. Category: Baby Bath. Rated 11/100 by our internal seeding model for demo purposes. Price: $2.98. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 2.977667493796526,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "dff1f1d5-b291-4731-8aeb-91aef992a823",
+                        "uri": "https://cdn.xync.co/xync-menu/0f9e5ded-6ffb-48fd-b872-2e8966e2c1e3.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 5,
+                "badges": [
+                    "Bestseller"
+                ],
+                "compareAtPrice": 3.62,
+                "unit": "box",
+                "unitLabel": "/set"
+            },
+            {
+                "id": "add822d9-2f3a-48ca-a11e-303831a0c19e",
+                "code": "",
+                "tag": "",
+                "nameEn": "DMP Yellow",
+                "nameKm": "សាប៊ូDMPលឿង",
+                "nameZh": "黄色DMP肥皂",
+                "descriptionEn": "DMP Yellow — quality you can feel in every use. Category: Baby Bath. Rated 48/100 by our internal seeding model for demo purposes. Price: $2.98. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 2.977667493796526,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 1,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "874499eb-2103-4a78-adbe-9845f109cb5e",
+                        "uri": "https://cdn.xync.co/xync-menu/fa219ecb-e745-4574-8714-af65ab7d2db2.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 4,
+                "badges": [
+                    "Bestseller"
+                ],
+                "compareAtPrice": 4.01,
+                "unit": "set",
+                "unitLabel": "/bag"
+            }
+        ]
+    },
+    {
+        "id": "4f7bd98b-2564-4049-8109-0cca41900390",
+        "nameEn": "Lip Stick",
+        "nameKm": "ក្រែមលាបមាត់",
+        "nameZh": "口红棒",
+        "enabled": true,
+        "menuStructure": "",
+        "iconName": "icon-lipstick",
+        "media": null,
+        "displayOrder": 0,
+        "items": [
+            {
+                "id": "11f0c78c-95ae-44aa-a7b9-fbca35b5eeda",
+                "code": "",
+                "tag": "",
+                "nameEn": "Keke Mood Endless Love Box (3pax)",
+                "nameKm": "ក្រែមKeke Mood Endless Love Box (3ដើម)",
+                "nameZh": "Keke Mood Endless Love Box (3pax)",
+                "descriptionEn": "Keke Mood Endless Love Box (3pax) — quality you can feel in every use. Category: Lip Stick. Rated 96/100 by our internal seeding model for demo purposes. Price: $1.61. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 1.614906832298137,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "74c54a3c-e0d0-41ca-add5-3042af9c1d94",
+                        "uri": "https://cdn.xync.co/xync-menu/85862a77-db1e-4d6c-bc7d-13f17001caa8.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 2,
+                "badges": [
+                    "New"
+                ],
+                "compareAtPrice": 2.12,
+                "unit": "set",
+                "unitLabel": "/bag"
+            },
+            {
+                "id": "4dc621ce-eb38-4299-b8aa-112229ab169f",
+                "code": "",
+                "tag": "",
+                "nameEn": "Angel Lip Stick (AGAG)",
+                "nameKm": "ក្រែមលាបមាត់ Angel (AGAG)",
+                "nameZh": "天使唇膏 (AGAG)",
+                "descriptionEn": "Angel Lip Stick (AGAG) — quality you can feel in every use. Category: Lip Stick. Rated 53/100 by our internal seeding model for demo purposes. Price: $1.74. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 1.739130434782609,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 1,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "7209859a-25e9-44de-a8b6-5827d82c1c59",
+                        "uri": "https://cdn.xync.co/xync-menu/7b79c4b4-2526-457a-9c5f-d6f7fff8efbe.webp",
+                        "fullUrl": null
+                    },
+                    {
+                        "id": "3486791e-ed2f-4165-890c-aad6dd83165f",
+                        "uri": "https://cdn.xync.co/xync-menu/c2c40c5e-f149-4acf-8979-877419d94ca8.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 4,
+                "badges": [
+                    "New"
+                ],
+                "compareAtPrice": 2.24,
+                "unit": "piece",
+                "unitLabel": "/pack"
+            }
+        ]
+    },
+    {
+        "id": "8db6a139-7a99-478d-b183-1129ebca6a5e",
+        "nameEn": "Daily Use Products",
+        "nameKm": "ផលិតផលប្រើប្រាស់ទូទៅ",
+        "nameZh": "日用产品",
+        "enabled": true,
+        "menuStructure": "",
+        "iconName": "icon-pharmacy1",
+        "media": null,
+        "displayOrder": 0,
+        "items": [
+            {
+                "id": "d79d43c5-7e1b-4d6f-b33f-f5142bfd3f4e",
+                "code": "",
+                "tag": "",
+                "nameEn": "Muyly Saving Set",
+                "nameKm": "ដងឡាមជ័រ Muyly",
+                "nameZh": "Muyly 储蓄套装",
+                "descriptionEn": "Muyly Saving Set — quality you can feel in every use. Category: Daily Use Products. Rated 9/100 by our internal seeding model for demo purposes. Price: $1.37. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 1.366459627329193,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "599b408e-3e5f-430f-80c1-afb275a3da1e",
+                        "uri": "https://cdn.xync.co/xync-menu/2cbe402b-a6bf-49e6-99b3-b2a110aad246.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 4,
+                "badges": [
+                    "Limited"
+                ],
+                "compareAtPrice": 1.62,
+                "unit": "piece",
+                "unitLabel": "/pack"
+            },
+            {
+                "id": "6f6a6394-5e55-477f-980c-0f0fc5d6c6bd",
+                "code": "",
+                "tag": "",
+                "nameEn": "Cool-Kid Sheets",
+                "nameKm": "បន្ទះបិតបញ្ចុះកម្តៅក្មេង",
+                "nameZh": "婴儿热垫",
+                "descriptionEn": "Cool-Kid Sheets — quality you can feel in every use. Category: Daily Use Products. Rated 64/100 by our internal seeding model for demo purposes. Price: $1.24. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 1.24223602484472,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 1,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "7ac0c206-951c-4050-822f-d26d52bd2230",
+                        "uri": "https://cdn.xync.co/xync-menu/c73dc890-5c10-4e16-a6ce-1837dc4c4c6e.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 4,
+                "badges": [
+                    "Hot"
+                ],
+                "compareAtPrice": 1.65,
+                "unit": "piece",
+                "unitLabel": "/bottle"
+            }
+        ]
+    },
+    {
+        "id": "9cbd696a-1abc-428a-9f5a-5b3502cb2243",
+        "nameEn": "Night Cream",
+        "nameKm": "ឡេលាបមុខយប់",
+        "nameZh": "晚霜",
+        "enabled": true,
+        "menuStructure": "",
+        "iconName": "icon-cream1",
+        "media": null,
+        "displayOrder": 0,
+        "items": [
+            {
+                "id": "0c0eac7f-55ff-4e6d-95b8-32e3ddc35f8f",
+                "code": "",
+                "tag": "",
+                "nameEn": "Miss Sunflower Night Cream",
+                "nameKm": "ឡេលាបមុខយប់Miss",
+                "nameZh": "晚霜Miss",
+                "descriptionEn": "Miss Sunflower Night Cream — quality you can feel in every use. Category: Night Cream. Rated 38/100 by our internal seeding model for demo purposes. Price: $6.95. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 6.947890818858561,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "415fe710-7f21-4083-891e-f98c1a2f957b",
+                        "uri": "https://cdn.xync.co/xync-menu/40848e22-651f-41b0-9163-e7eeed348bf6.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 2,
+                "badges": [
+                    "Bestseller"
+                ],
+                "compareAtPrice": 9.14,
+                "unit": "set",
+                "unitLabel": "/set"
+            },
+            {
+                "id": "5cda8bc7-4c88-4f69-9236-72f68c28027d",
+                "code": "",
+                "tag": "",
+                "nameEn": "RDR Night Repair Cream",
+                "nameKm": "គ្រីមលាបមុខយប់RDR",
+                "nameZh": "RDR晚霜",
+                "descriptionEn": "RDR Night Repair Cream — quality you can feel in every use. Category: Night Cream. Rated 94/100 by our internal seeding model for demo purposes. Price: $4.96. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 4.962779156327543,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 1,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "b5612aaa-949d-4391-a495-b8f0d3eff806",
+                        "uri": "https://cdn.xync.co/xync-menu/dc8d466c-0c2c-4e6b-a838-1493a9062586.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 3,
+                "badges": [
+                    "Hot"
+                ],
+                "compareAtPrice": 6.6,
+                "unit": "pack",
+                "unitLabel": "/box"
+            },
+            {
+                "id": "df4398ec-7cd7-4e06-8e61-8662c8258099",
+                "code": "",
+                "tag": "",
+                "nameEn": "P24 Secrets Night Cream",
+                "nameKm": "គ្រីមលាបមុខយប់P24",
+                "nameZh": "晚霜 P24",
+                "descriptionEn": "P24 Secrets Night Cream — quality you can feel in every use. Category: Night Cream. Rated 56/100 by our internal seeding model for demo purposes. Price: $3.97. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 3.970223325062035,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 2,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "34c20871-dd18-409d-b1e4-3aae68f96884",
+                        "uri": "https://cdn.xync.co/xync-menu/002e10fb-8892-47f4-8085-d451cd3f09d7.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 4,
+                "badges": [
+                    "New"
+                ],
+                "compareAtPrice": 4.51,
+                "unit": "box",
+                "unitLabel": "/box"
+            },
+            {
+                "id": "2e647a96-b0b0-4503-bd41-d250382d471c",
+                "code": "",
+                "tag": "",
+                "nameEn": "Witch Ginseng Small ",
+                "nameKm": "ឡេយប់ធ្មប់តូច",
+                "nameZh": "巫婆人参（小）",
+                "descriptionEn": "Witch Ginseng Small — quality you can feel in every use. Category: Night Cream. Rated 97/100 by our internal seeding model for demo purposes. Price: $4.92. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 4.919254658385093,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 3,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "eceabe4a-c905-4bfb-8df5-76d0a3af43fe",
+                        "uri": "https://cdn.xync.co/xync-menu/7801dd26-4171-422e-af5e-101ead915ad9.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 1,
+                "badges": [
+                    "New"
+                ],
+                "compareAtPrice": 6.42,
+                "unit": "box",
+                "unitLabel": "/box"
+            },
+            {
+                "id": "7ca10b4c-b782-4ec5-9de2-b31c941b3174",
+                "code": "",
+                "tag": "",
+                "nameEn": "Yerpall Night Cream",
+                "nameKm": "ឡេលាបមុខយប់ Yerpall",
+                "nameZh": "Yerpall Night Cream",
+                "descriptionEn": "Yerpall Night Cream — quality you can feel in every use. Category: Night Cream. Rated 70/100 by our internal seeding model for demo purposes. Price: $7.03. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 7.0310559,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 4,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "314c5cca-c446-4bcf-b4c5-5412697f407c",
+                        "uri": "https://cdn.xync.co/xync-menu/7d636939-366c-4720-ae1e-3965d7f2fbce.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 4,
+                "badges": [
+                    "Limited"
+                ],
+                "compareAtPrice": 7.46,
+                "unit": "bottle",
+                "unitLabel": "/piece"
+            }
+        ]
+    },
+    {
+        "id": "b0530195-afef-4d0b-b7df-4bba465dcf0f",
+        "nameEn": "Body Scrub",
+        "nameKm": "ស្ក្រាប់ខ្លួន",
+        "nameZh": "身体磨砂膏",
+        "enabled": true,
+        "menuStructure": "grid",
+        "iconName": "icon-body-oil",
+        "media": null,
+        "displayOrder": 0,
+        "items": [
+            {
+                "id": "f1d58c71-b40f-47fa-8269-7664cac5593a",
+                "code": "",
+                "tag": "",
+                "nameEn": "Lom Orng Scrub Small",
+                "nameKm": "លម្អងស្ក្រាប់តូច",
+                "nameZh": "Lom Orng Scrub Small",
+                "descriptionEn": "Lom Orng Scrub Small — quality you can feel in every use. Category: Body Scrub. Rated 29/100 by our internal seeding model for demo purposes. Price: $1.49. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 1.488833746898263,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "dbcd5fc1-392a-4a26-91f9-97a47dd6aef7",
+                        "uri": "https://cdn.xync.co/xync-menu/71ce3101-78c2-4f61-91a4-9c1394b671cd.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 4,
+                "badges": [
+                    "New"
+                ],
+                "compareAtPrice": 1.58,
+                "unit": "set",
+                "unitLabel": "/pack"
+            }
+        ]
+    },
+    {
+        "id": "d365afa1-e00c-4b52-9f45-8ab6dba32a15",
+        "nameEn": "Clothes ",
+        "nameKm": "ខោ-អាវ",
+        "nameZh": "衣服",
+        "enabled": true,
+        "menuStructure": "",
+        "iconName": "icon-Socks",
+        "media": null,
+        "displayOrder": 0,
+        "items": [
+            {
+                "id": "3f1bbb29-a29d-4503-bfd8-b3fadee20830",
+                "code": "",
+                "tag": "",
+                "nameEn": "Sock Set (10pax)",
+                "nameKm": "ស្រោមជើង (១០គូ)",
+                "nameZh": "袜子套装（10双）",
+                "descriptionEn": "Sock Set (10pax) — quality you can feel in every use. Category: Clothes. Rated 5/100 by our internal seeding model for demo purposes. Price: $2.61. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 2.608695652173913,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "96c12363-da4f-4419-af6b-d316646d0237",
+                        "uri": "https://cdn.xync.co/xync-menu/4aea3907-42d9-428f-8c4a-bb1d0d3361df.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 3,
+                "badges": [
+                    "Deal"
+                ],
+                "compareAtPrice": 2.96,
+                "unit": "set",
+                "unitLabel": "/box"
+            }
+        ]
+    },
+    {
+        "id": "23ef3577-e013-423f-97bf-ca4c990377b1",
+        "nameEn": "Herbal Oil",
+        "nameKm": "ប្រេងខ្យល់",
+        "nameZh": "草药油",
+        "enabled": true,
+        "menuStructure": "",
+        "iconName": "icon-essential-oil",
+        "media": null,
+        "displayOrder": 1,
+        "items": [
+            {
+                "id": "ed7fe164-538b-4b9f-994e-81ac3f57d72d",
+                "code": "",
+                "tag": "",
+                "nameEn": "Dragon Herbal Oil 5ml",
+                "nameKm": "ប្រេងខ្យល់នាគ5ml",
+                "nameZh": "龙草本油 5ml",
+                "descriptionEn": "Dragon Herbal Oil 5ml — quality you can feel in every use. Category: Herbal Oil. Rated 9/100 by our internal seeding model for demo purposes. Price: $1.19. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 1.192546583850932,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "3d2a0059-1c7a-4117-b5f4-035b06e5f79a",
+                        "uri": "https://cdn.xync.co/xync-menu/d528fc2d-3276-4e3a-b27b-40f05f7ee8fd.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 4,
+                "badges": [
+                    "Limited"
+                ],
+                "compareAtPrice": 1.56,
+                "unit": "set",
+                "unitLabel": "/piece"
+            }
+        ]
+    },
+    {
+        "id": "2ae8b26a-8889-44ba-9a44-663edac4a236",
+        "nameEn": "Toner Pads",
+        "nameKm": "សំឡីជូតមុខ",
+        "nameZh": "碳粉垫",
+        "enabled": true,
+        "menuStructure": "",
+        "iconName": "icon-cream2",
+        "media": null,
+        "displayOrder": 2,
+        "items": [
+            {
+                "id": "6298f599-559b-47cc-9db2-7b778d9ac40d",
+                "code": "",
+                "tag": "",
+                "nameEn": "MMO Repair Pad",
+                "nameKm": "សំឡីជូតមុខ MMO",
+                "nameZh": "MMO修复垫",
+                "descriptionEn": "MMO Repair Pad — quality you can feel in every use. Category: Toner Pads. Rated 82/100 by our internal seeding model for demo purposes. Price: $4.72. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 4.720496894409938,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "d11d6c87-caff-4e10-a433-e46402511f92",
+                        "uri": "https://cdn.xync.co/xync-menu/3d1f4238-0fe3-41bd-a8bd-826e096182b5.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 4,
+                "badges": [
+                    "Limited"
+                ],
+                "compareAtPrice": 5.78,
+                "unit": "set",
+                "unitLabel": "/piece"
+            }
+        ]
+    },
+    {
+        "id": "4c1ab940-dd86-47e9-a5f7-ef3459c0d4f6",
+        "nameEn": "Hair Conditioner",
+        "nameKm": "ក្រែមបន្ទន់សក់",
+        "nameZh": "护发素",
+        "enabled": true,
+        "menuStructure": "",
+        "iconName": "icon-shampoo1",
+        "media": null,
+        "displayOrder": 2,
+        "items": [
+            {
+                "id": "48b3e085-8cf3-4e85-8091-d299867933fc",
+                "code": "",
+                "tag": "",
+                "nameEn": "Roumdol Conditioner",
+                "nameKm": "ម៉ាស់អប់កក់សក់រំដួល",
+                "nameZh": "毛躁头发发膜",
+                "descriptionEn": "Roumdol Conditioner — quality you can feel in every use. Category: Hair Conditioner. Rated 66/100 by our internal seeding model for demo purposes. Price: $3.47. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 3.47394540942928,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "a38457f3-cd23-477a-bb1f-0aaaf109c787",
+                        "uri": "https://cdn.xync.co/xync-menu/fee39fa4-3efb-4703-93b8-ce68ffb4d40a.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 4,
+                "badges": [
+                    "Hot"
+                ],
+                "compareAtPrice": 4.62,
+                "unit": "box",
+                "unitLabel": "/set"
+            },
+            {
+                "id": "520b75e5-6fad-451a-97a3-2b6568f4c720",
+                "code": "",
+                "tag": "",
+                "nameEn": "Japanese Set (Only Shampoo)",
+                "nameKm": "ឈុតសាប៊ូកក់អប់ជប៉ុន(យកតែសាប៊ូកក់)",
+                "nameZh": "日式套装（仅洗发水）",
+                "descriptionEn": "Japanese Set (Only Shampoo) — quality you can feel in every use. Category: Hair Conditioner. Rated 76/100 by our internal seeding model for demo purposes. Price: $1.86. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 1.863354037267081,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "989c8304-12fd-457d-99c7-dff83bbeafb5",
+                        "uri": "https://cdn.xync.co/xync-menu/9d525fe3-ccd2-4417-aa73-c438e689f333.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 1,
+                "badges": [
+                    "New"
+                ],
+                "compareAtPrice": 2.47,
+                "unit": "set",
+                "unitLabel": "/pack"
+            },
+            {
+                "id": "521108bc-35ed-4343-a125-32f992921a44",
+                "code": "",
+                "tag": "",
+                "nameEn": "Orb Ses 300ml (Small)",
+                "nameKm": "អប់សេះ 300ml (តូច)",
+                "nameZh": "Orb Ses 300毫升（小）",
+                "descriptionEn": "Orb Ses 300ml (Small) — quality you can feel in every use. Category: Hair Conditioner. Rated 85/100 by our internal seeding model for demo purposes. Price: $1.04. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 1.043478260869565,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 1,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "5a722244-0a11-49e8-9b7b-edc7001ee155",
+                        "uri": "https://cdn.xync.co/xync-menu/8c523287-367d-479c-80bf-ca77a06c5e54.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 5,
+                "badges": [
+                    "Hot"
+                ],
+                "compareAtPrice": 1.2,
+                "unit": "piece",
+                "unitLabel": "/bag"
+            },
+            {
+                "id": "9f731cb4-d529-4f6b-939c-d80dbc865dd8",
+                "code": "",
+                "tag": "",
+                "nameEn": "Orb Ses 1L (Large)",
+                "nameKm": "អប់សេះ 1L (ធំ)",
+                "nameZh": "Orb Ses 1L（大号）",
+                "descriptionEn": "Orb Ses 1L (Large) — quality you can feel in every use. Category: Hair Conditioner. Rated 53/100 by our internal seeding model for demo purposes. Price: $2.11. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 2.111801242236025,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 2,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "9767e767-2014-46ec-8014-ccf3535f048c",
+                        "uri": "https://cdn.xync.co/xync-menu/22e52b6b-4bc0-4ae0-b23b-9fd6cf94526b.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 1,
+                "badges": [
+                    "Hot"
+                ],
+                "compareAtPrice": 2.51,
+                "unit": "bag",
+                "unitLabel": "/bag"
+            },
+            {
+                "id": "3d2bce15-b524-48f9-a6b2-4899cb4444f5",
+                "code": "",
+                "tag": "",
+                "nameEn": "Orb Ses 500ml (Medium)",
+                "nameKm": "អប់សេះ 100ml (កណ្តាល)",
+                "nameZh": "Orb Ses 500毫升（中号）",
+                "descriptionEn": "Orb Ses 500ml (Medium) — quality you can feel in every use. Category: Hair Conditioner. Rated 57/100 by our internal seeding model for demo purposes. Price: $1.37. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 1.366459627329193,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 3,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "3880f335-b645-4fdf-8b7a-dcdccff3eb8e",
+                        "uri": "https://cdn.xync.co/xync-menu/d1919da0-25a7-4ce7-9458-f6b7b11d424f.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 3,
+                "badges": [
+                    "Limited"
+                ],
+                "compareAtPrice": 1.61,
+                "unit": "bag",
+                "unitLabel": "/bag"
+            },
+            {
+                "id": "da4c2702-b624-428f-9657-61f8220ae865",
+                "code": "",
+                "tag": "",
+                "nameEn": "ER Conditioner",
+                "nameKm": "អប់សក់ER",
+                "nameZh": "ER调理剂",
+                "descriptionEn": "ER Conditioner — quality you can feel in every use. Category: Hair Conditioner. Rated 4/100 by our internal seeding model for demo purposes. Price: $6.26. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 6.260869565217391,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 4,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "8baabeff-4d65-4d30-b3db-0852e8c29104",
+                        "uri": "https://cdn.xync.co/xync-menu/d240c845-d225-454e-bc04-6c5ac2431f01.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 3,
+                "badges": [
+                    "New"
+                ],
+                "compareAtPrice": 7.04,
+                "unit": "pack",
+                "unitLabel": "/bottle"
+            },
+            {
+                "id": "3e63935a-79da-4e9b-8901-5520ca18a957",
+                "code": "",
+                "tag": "",
+                "nameEn": "Colatin Conditioner",
+                "nameKm": "ក្រែមបន្ទន់សក់Colatin",
+                "nameZh": "Colatin护发素",
+                "descriptionEn": "Colatin Conditioner — quality you can feel in every use. Category: Hair Conditioner. Rated 3/100 by our internal seeding model for demo purposes. Price: $6.81. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 6.807453416149068,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 5,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "8e9d02d4-1316-4a9e-b827-8e220b2f5a76",
+                        "uri": "https://cdn.xync.co/xync-menu/b076a666-e8df-4a10-b0b5-fb5f0e687141.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 3,
+                "badges": [
+                    "Deal"
+                ],
+                "compareAtPrice": 7.65,
+                "unit": "bottle",
+                "unitLabel": "/box"
+            }
+        ]
+    },
+    {
+        "id": "55e7de68-4d1a-429b-a077-e5bdb02dabdd",
+        "nameEn": "Shower Gel",
+        "nameKm": "ជែលដុសខ្លួន",
+        "nameZh": "沐浴露",
+        "enabled": true,
+        "menuStructure": "",
+        "iconName": "icon-bath",
+        "media": null,
+        "displayOrder": 2,
+        "items": [
+            {
+                "id": "e363ef58-4cac-4b72-b05b-7b4c8108760f",
+                "code": "",
+                "tag": "",
+                "nameEn": "Lavender Shower Gel",
+                "nameKm": "សាប៊ូជែលដុសខ្លូន ឡាវែនឌឺ",
+                "nameZh": "薰衣草沐浴露",
+                "descriptionEn": "Lavender Shower Gel — quality you can feel in every use. Category: Shower Gel. Rated 29/100 by our internal seeding model for demo purposes. Price: $2.98. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 2.977667493796526,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "bcad0b58-1c7b-4647-9580-0b30a0050574",
+                        "uri": "https://cdn.xync.co/xync-menu/08cfb50b-5dae-4a94-8402-4e90d5049178.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 5,
+                "badges": [
+                    "Deal"
+                ],
+                "compareAtPrice": 3.92,
+                "unit": "box",
+                "unitLabel": "/pack"
+            },
+            {
+                "id": "b970e061-2beb-41ff-a3c2-4e2bef118446",
+                "code": "",
+                "tag": "",
+                "nameEn": "Logan Cherry Blossom",
+                "nameKm": "សាប៊ូដុសខ្លួនជែលLoganផ្កាឈូក",
+                "nameZh": "洛根玫瑰凝胶沐浴皂",
+                "descriptionEn": "Logan Cherry Blossom — quality you can feel in every use. Category: Shower Gel. Rated 25/100 by our internal seeding model for demo purposes. Price: $4.96. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 4.962779156327543,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 1,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "f5bbf713-c75d-47b8-b92d-26dc603189c5",
+                        "uri": "https://cdn.xync.co/xync-menu/55869ed6-fa4f-42b9-bb3e-35558ed534b2.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 1,
+                "badges": [
+                    "Bestseller"
+                ],
+                "compareAtPrice": 5.45,
+                "unit": "pack",
+                "unitLabel": "/piece"
+            },
+            {
+                "id": "4545c76a-d2f3-44f1-bbd8-5cfad432afb4",
+                "code": "",
+                "tag": "",
+                "nameEn": "Logan Rosa Hybrid",
+                "nameKm": "សាប៊ូដុសខ្លួនជែលLoganខៀវ",
+                "nameZh": "洛根蓝色凝胶沐浴露",
+                "descriptionEn": "Logan Rosa Hybrid — quality you can feel in every use. Category: Shower Gel. Rated 68/100 by our internal seeding model for demo purposes. Price: $4.96. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 4.962779156327543,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 2,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "06c89eeb-edb2-4d07-821a-a79e5fdf9f87",
+                        "uri": "https://cdn.xync.co/xync-menu/88d6b0d8-1aaf-4268-9045-f84bdfe68815.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 3,
+                "badges": [
+                    "Hot"
+                ],
+                "compareAtPrice": 5.76,
+                "unit": "set",
+                "unitLabel": "/piece"
+            },
+            {
+                "id": "5b97f6a2-fe9a-471d-a5bc-a93a00a1c31a",
+                "code": "",
+                "tag": "",
+                "nameEn": "Jasmine Pomegranate Shower Gel",
+                "nameKm": "ជែលដុសខ្លួនJasmine Pomegranate",
+                "nameZh": "茉莉石榴沐浴露",
+                "descriptionEn": "Jasmine Pomegranate Shower Gel — quality you can feel in every use. Category: Shower Gel. Rated 41/100 by our internal seeding model for demo purposes. Price: $1.81. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 1.813664596273292,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 3,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "b67ce5fe-2a16-4a1f-8f65-2e9172ee6181",
+                        "uri": "https://cdn.xync.co/xync-menu/f3c8e21a-a232-40d5-8160-603a91991267.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 5,
+                "badges": [
+                    "Limited"
+                ],
+                "compareAtPrice": 2.25,
+                "unit": "bottle",
+                "unitLabel": "/piece"
+            },
+            {
+                "id": "a8ca8c88-2a4d-46e5-83a9-d7771b146d26",
+                "code": "",
+                "tag": "",
+                "nameEn": "RuiFeiShi Shower Gel Blue",
+                "nameKm": "ជែលដុសខ្លួនRuiFeiShi ពណ៌ខៀវ",
+                "nameZh": "瑞菲诗沐浴露蓝色",
+                "descriptionEn": "RuiFeiShi Shower Gel Blue — quality you can feel in every use. Category: Shower Gel. Rated 69/100 by our internal seeding model for demo purposes. Price: $2.98. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 2.977667493796526,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 4,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "da07333e-df38-45d6-abf8-d8f229d3cc3a",
+                        "uri": "https://cdn.xync.co/xync-menu/844e4ac8-fa47-46f0-bb46-eb219758c111.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 5,
+                "badges": [
+                    "Limited"
+                ],
+                "compareAtPrice": 3.17,
+                "unit": "bottle",
+                "unitLabel": "/box"
+            },
+            {
+                "id": "823858e9-066a-4c6a-ad42-adf8ae4a9635",
+                "code": "",
+                "tag": "",
+                "nameEn": "RuiFeiShi Shower Gel Pink",
+                "nameKm": "ជែលដុសខ្លួនRuiFeiShi ពណ៌ផ្កាឈូក",
+                "nameZh": "瑞菲诗沐浴露粉色",
+                "descriptionEn": "RuiFeiShi Shower Gel Pink — quality you can feel in every use. Category: Shower Gel. Rated 25/100 by our internal seeding model for demo purposes. Price: $2.98. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 2.977667493796526,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 5,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "ffe6d7bf-7f54-4805-b264-77d3a49ad830",
+                        "uri": "https://cdn.xync.co/xync-menu/295e262e-d378-4ca2-8d2e-f6d96114a374.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 4,
+                "badges": [
+                    "Deal"
+                ],
+                "compareAtPrice": 4.0,
+                "unit": "set",
+                "unitLabel": "/set"
+            },
+            {
+                "id": "82efb731-df0d-4ae3-b1a4-8e2126f50786",
+                "code": "",
+                "tag": "",
+                "nameEn": "RuiFeiShi Shower Gel Purple",
+                "nameKm": "ជែលដុសខ្លួនRuiFeiShi ពណ៌ស្វាយ",
+                "nameZh": "瑞菲诗沐浴露紫色",
+                "descriptionEn": "RuiFeiShi Shower Gel Purple — quality you can feel in every use. Category: Shower Gel. Rated 64/100 by our internal seeding model for demo purposes. Price: $2.98. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 2.977667493796526,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 6,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "65ac6ba2-a7d7-4bac-b36e-ef87121bead2",
+                        "uri": "https://cdn.xync.co/xync-menu/205b6de6-dddb-42d0-b676-e1eff022e8ea.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 3,
+                "badges": [
+                    "Bestseller"
+                ],
+                "compareAtPrice": 3.95,
+                "unit": "box",
+                "unitLabel": "/set"
+            },
+            {
+                "id": "a77ca64a-2faf-43aa-830b-c852b73cb54f",
+                "code": "",
+                "tag": null,
+                "nameEn": "Olive Shower Gel",
+                "nameKm": "ជែលដុសខ្លួន​ អូលីវ",
+                "nameZh": "橄榄沐浴露",
+                "descriptionEn": "Olive Shower Gel — quality you can feel in every use. Category: Shower Gel. Rated 55/100 by our internal seeding model for demo purposes. Price: $2.98. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 2.977667493796526,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 7,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "66b77bde-3df4-4cb8-aa82-879691b2c5d4",
+                        "uri": "https://cdn.xync.co/xync-menu/2279f243-563d-4a84-8cd5-b96707226ed0.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 2,
+                "badges": [
+                    "Hot"
+                ],
+                "compareAtPrice": 3.97,
+                "unit": "box",
+                "unitLabel": "/piece"
+            }
+        ]
+    },
+    {
+        "id": "74f99dc9-a72d-4a53-8a93-3b67398329d4",
+        "nameEn": "Slim Products",
+        "nameKm": "ផលិតផលសម្រកគីឡូ",
+        "nameZh": "减肥药",
+        "enabled": true,
+        "menuStructure": "",
+        "iconName": "icon-pills-1",
+        "media": null,
+        "displayOrder": 2,
+        "items": [
+            {
+                "id": "e413c4e4-f14e-4c43-87cb-f6b7232f5a8b",
+                "code": "",
+                "tag": "",
+                "nameEn": "TRE Ultra Fast Slim",
+                "nameKm": "ថ្នាំសម្រកUltra",
+                "nameZh": "减肥药Ultra",
+                "descriptionEn": "TRE Ultra Fast Slim — quality you can feel in every use. Category: Slim Products. Rated 52/100 by our internal seeding model for demo purposes. Price: $13.65. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 13.64764267990074,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "a2765d66-cd56-4969-868e-7574bc9f23dd",
+                        "uri": "https://cdn.xync.co/xync-menu/e5f1c778-7420-4a4d-a725-08103132a5aa.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 4,
+                "badges": [
+                    "New"
+                ],
+                "compareAtPrice": 15.74,
+                "unit": "set",
+                "unitLabel": "/piece"
+            },
+            {
+                "id": "0232a988-2283-44e5-beb3-0a554549b444",
+                "code": "",
+                "tag": null,
+                "nameEn": "Skinni Brazil Seed",
+                "nameKm": "សម្រកធម្មជាតិ Skinni",
+                "nameZh": "Skinni减肥药",
+                "descriptionEn": "Skinni Brazil Seed — quality you can feel in every use. Category: Slim Products. Rated 36/100 by our internal seeding model for demo purposes. Price: $11.88. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 11.87577639751553,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 1,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "24b8416a-eb50-455f-8f54-eb701497f064",
+                        "uri": "https://cdn.xync.co/xync-menu/c87e1924-085c-4526-8dc8-e70185fe7fa2.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 3,
+                "badges": [
+                    "Bestseller"
+                ],
+                "compareAtPrice": 14.76,
+                "unit": "set",
+                "unitLabel": "/bag"
+            }
+        ]
+    },
+    {
+        "id": "a177e99e-9c67-4346-905f-85731ddeb1d3",
+        "nameEn": "Facial Foam",
+        "nameKm": "ហ្វូមលាងមុខ",
+        "nameZh": "洗面奶",
+        "enabled": true,
+        "menuStructure": "",
+        "iconName": "icon-facial",
+        "media": null,
+        "displayOrder": 2,
+        "items": [
+            {
+                "id": "6c131184-0c2e-4fd7-82de-d000aa2f66d5",
+                "code": "",
+                "tag": "",
+                "nameEn": "Avocado Cleaning Foam",
+                "nameKm": "ហ្វូមលាងមុខផ្លែប័រ",
+                "nameZh": "牛油果清洁泡沫",
+                "descriptionEn": "Avocado Cleaning Foam — quality you can feel in every use. Category: Facial Foam. Rated 65/100 by our internal seeding model for demo purposes. Price: $2.48. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 2.481389578163772,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "20bda188-bd6e-411e-ac31-0a0ef12e7457",
+                        "uri": "https://cdn.xync.co/xync-menu/8310c350-6fbb-40e7-b006-9f9bb80ba158.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 3,
+                "badges": [
+                    "Limited"
+                ],
+                "compareAtPrice": 3.35,
+                "unit": "pack",
+                "unitLabel": "/bag"
+            },
+            {
+                "id": "9680d50f-ece7-4974-9710-dea6bfe222ab",
+                "code": "",
+                "tag": "",
+                "nameEn": "Mamiza Cleaning Foam",
+                "nameKm": "ហ្វូមលាងមុខMamiza",
+                "nameZh": "Mamiza 洗面奶",
+                "descriptionEn": "Mamiza Cleaning Foam — quality you can feel in every use. Category: Facial Foam. Rated 18/100 by our internal seeding model for demo purposes. Price: $3.97. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 3.970223325062035,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 1,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "1a6369bf-ab0a-4f9f-86a1-6edafbcac944",
+                        "uri": "https://cdn.xync.co/xync-menu/7e96566a-7133-44cc-b399-f0f46b1a79e4.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 2,
+                "badges": [
+                    "Limited"
+                ],
+                "compareAtPrice": 4.6,
+                "unit": "set",
+                "unitLabel": "/bag"
+            },
+            {
+                "id": "e09d36f3-675d-4ce1-b0b3-5464e1e1a6b2",
+                "code": "",
+                "tag": "",
+                "nameEn": "Citra Facial Foam",
+                "nameKm": "ហ្វូមលាងមុខCitra",
+                "nameZh": "Citra 洁面泡沫",
+                "descriptionEn": "Citra Facial Foam — quality you can feel in every use. Category: Facial Foam. Rated 9/100 by our internal seeding model for demo purposes. Price: $1.14. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 1.142857142857143,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 2,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "6aae1b9e-76f5-4619-9cc4-35ad0f565a90",
+                        "uri": "https://cdn.xync.co/xync-menu/3c3f6dbe-6b5c-4ce4-a1fb-90b3f29709b8.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 4,
+                "badges": [
+                    "Deal"
+                ],
+                "compareAtPrice": 1.36,
+                "unit": "piece",
+                "unitLabel": "/piece"
+            }
+        ]
+    },
+    {
+        "id": "a511ca4b-cce3-45bb-b626-260cf102b058",
+        "nameEn": "Shampoo",
+        "nameKm": "សាប៊ូកក់សក់",
+        "nameZh": "洗发水",
+        "enabled": true,
+        "menuStructure": "",
+        "iconName": "icon-shampoo",
+        "media": null,
+        "displayOrder": 2,
+        "items": [
+            {
+                "id": "102dca0d-374d-47a6-b257-9f47ed970810",
+                "code": "",
+                "tag": "",
+                "nameEn": "Roumdol Shampoo",
+                "nameKm": "សាប៊ូកក់សក់រំដួល",
+                "nameZh": "适合卷发的洗发水",
+                "descriptionEn": "Roumdol Shampoo — quality you can feel in every use. Category: Shampoo. Rated 92/100 by our internal seeding model for demo purposes. Price: $2.98. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 2.977667493796526,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "a78360a0-dd38-4c6e-ab6f-5aa5aaabe201",
+                        "uri": "https://cdn.xync.co/xync-menu/efce322f-cd68-484a-bd04-23b20d9776f0.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 5,
+                "badges": [
+                    "New"
+                ],
+                "compareAtPrice": 3.83,
+                "unit": "bag",
+                "unitLabel": "/set"
+            },
+            {
+                "id": "53211c04-9b9d-453e-b604-afd1d711a9ca",
+                "code": "",
+                "tag": "",
+                "nameEn": "Japanese Set (Only Conditioner)",
+                "nameKm": "ឈុតសាប៊ូកក់អប់ជប៉ុន(យកតែបន្ទន់)",
+                "nameZh": "日式套装（仅护发素）",
+                "descriptionEn": "Japanese Set (Only Conditioner) — quality you can feel in every use. Category: Shampoo. Rated 71/100 by our internal seeding model for demo purposes. Price: $1.86. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 1.863354037267081,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 1,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "8bc16f62-7330-4039-ad89-f2cf95390e77",
+                        "uri": "https://cdn.xync.co/xync-menu/c355a6e1-3111-4078-b315-da20cac2bf8b.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 3,
+                "badges": [
+                    "Bestseller"
+                ],
+                "compareAtPrice": 2.08,
+                "unit": "piece",
+                "unitLabel": "/piece"
+            },
+            {
+                "id": "20838e55-a950-45fa-8a4e-19977b0ea973",
+                "code": "",
+                "tag": "",
+                "nameEn": "ER Shampoo",
+                "nameKm": "សាប៊ូកក់សក់ER",
+                "nameZh": "ER洗发水",
+                "descriptionEn": "ER Shampoo — quality you can feel in every use. Category: Shampoo. Rated 54/100 by our internal seeding model for demo purposes. Price: $6.26. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 6.260869565217391,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 2,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "6d3aa2e9-d486-4c7a-8d2e-a532cf2f9c86",
+                        "uri": "https://cdn.xync.co/xync-menu/8b674a7e-2d15-4fb5-8b0e-e1b748ee524b.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 2,
+                "badges": [
+                    "Hot"
+                ],
+                "compareAtPrice": 7.86,
+                "unit": "bag",
+                "unitLabel": "/pack"
+            },
+            {
+                "id": "3d754db9-592a-4233-a7f0-79cb94e073b6",
+                "code": "",
+                "tag": "",
+                "nameEn": "Pantene Hair Fall​ Control",
+                "nameKm": "សាប៊ូកក់សក់ ប៉ុងតែន ផ្កាឈូក",
+                "nameZh": "潘婷洗发水",
+                "descriptionEn": "Pantene Hair Fall​ Control — quality you can feel in every use. Category: Shampoo. Rated 44/100 by our internal seeding model for demo purposes. Price: $2.61. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 2.61,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 3,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "f621b17c-c046-4c58-bbc3-1cee9565a653",
+                        "uri": "https://cdn.xync.co/xync-menu/4cbb75a2-33a6-41a2-a650-bbd8d84bd80e.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 1,
+                "badges": [
+                    "Hot"
+                ],
+                "compareAtPrice": 3.15,
+                "unit": "set",
+                "unitLabel": "/set"
+            }
+        ]
+    },
+    {
+        "id": "b730c9ae-13bb-4563-b5ce-4edb03b3016c",
+        "nameEn": "Toothpaste",
+        "nameKm": "ថ្នាំដុសធ្មេញ",
+        "nameZh": "Toothpaste",
+        "enabled": true,
+        "menuStructure": "",
+        "iconName": "icon-x-toothpaste",
+        "media": null,
+        "displayOrder": 2,
+        "items": [
+            {
+                "id": "1a95ded6-29fd-4962-a9c4-ed46bcc59c4b",
+                "code": "",
+                "tag": "",
+                "nameEn": "Silver Cow Toothpaste",
+                "nameKm": "ថ្នាំដុសធ្មេញ គោប្រាក់",
+                "nameZh": "银牛牙膏",
+                "descriptionEn": "Silver Cow Toothpaste — quality you can feel in every use. Category: Toothpaste. Rated 18/100 by our internal seeding model for demo purposes. Price: $5.96. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 5.955334987593052,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "35f4ad40-df14-4745-b06d-670e86da16ce",
+                        "uri": "https://cdn.xync.co/xync-menu/c0a15b4e-c4d7-47e5-b4ee-5106919a9066.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 5,
+                "badges": [
+                    "Deal"
+                ],
+                "compareAtPrice": 7.06,
+                "unit": "bottle",
+                "unitLabel": "/bottle"
+            },
+            {
+                "id": "0587c32d-3b1f-4471-8112-4b9f35b787e3",
+                "code": "",
+                "tag": "Instock",
+                "nameEn": "Phsar Thomcheat 24 Toothpaste",
+                "nameKm": "ថ្នាំដុសធ្មេញ ផ្សារធម្មជាតិ ២៤",
+                "nameZh": "Phsar Thomcheat 24牙膏",
+                "descriptionEn": "Phsar Thomcheat 24 Toothpaste — quality you can feel in every use. Category: Toothpaste. Rated 22/100 by our internal seeding model for demo purposes. Price: $4.84. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 4.84,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 1,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "4bbd32a2-3a5e-4013-a4a8-e201269befaa",
+                        "uri": "https://cdn.xync.co/xync-menu/3236375a-6ba5-458c-aecb-87e5cd464f95.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 4,
+                "badges": [
+                    "Instock"
+                ],
+                "compareAtPrice": 5.62,
+                "unit": "set",
+                "unitLabel": "/box"
+            }
+        ]
+    },
+    {
+        "id": "ec88127e-a04e-4376-906a-59fe80e8de54",
+        "nameEn": "Body Serum",
+        "nameKm": "សេរ៉ូមលាបខ្លួន",
+        "nameZh": "身体精华液",
+        "enabled": true,
+        "menuStructure": "",
+        "iconName": "icon-body-oil",
+        "media": null,
+        "displayOrder": 2,
+        "items": [
+            {
+                "id": "9784e65e-c7a9-40d5-b65c-005e6359e899",
+                "code": "",
+                "tag": "",
+                "nameEn": "Justeen Miracle Body Serum",
+                "nameKm": "សេរ៉ូមខ្លួនឡេខៀវ",
+                "nameZh": "Justeen 身体精华",
+                "descriptionEn": "Justeen Miracle Body Serum — quality you can feel in every use. Category: Body Serum. Rated 84/100 by our internal seeding model for demo purposes. Price: $2.98. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 2.977667493796526,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "877dd599-90bc-4795-b096-6540fce23bfb",
+                        "uri": "https://cdn.xync.co/xync-menu/4b545e60-18a8-4fed-9baf-7b2c5230dd33.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 3,
+                "badges": [
+                    "Limited"
+                ],
+                "compareAtPrice": 3.58,
+                "unit": "bottle",
+                "unitLabel": "/box"
+            },
+            {
+                "id": "36b5cce2-2805-4dda-92be-d361f7686d61",
+                "code": "",
+                "tag": "",
+                "nameEn": "Vaseline Body Serum Yellow",
+                "nameKm": "សេរ៉ូម វ៉ាសេលីន លឿង",
+                "nameZh": "凡士林身体精华液（黄色）",
+                "descriptionEn": "Vaseline Body Serum Yellow — quality you can feel in every use. Category: Body Serum. Rated 89/100 by our internal seeding model for demo purposes. Price: $3.40. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 3.4,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 1,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "3644346f-634b-4526-bc1e-631ec660bc20",
+                        "uri": "https://cdn.xync.co/xync-menu/c1b5807a-d9a5-4d38-833e-912fa2d8084f.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 1,
+                "badges": [
+                    "Deal"
+                ],
+                "compareAtPrice": 4.25,
+                "unit": "bag",
+                "unitLabel": "/box"
+            }
+        ]
+    },
+    {
+        "id": "f5b205ed-30ac-4bf7-bd71-df857e417037",
+        "nameEn": "Lip Balm",
+        "nameKm": "ក្រែមព្យាបាលបបូរមាត់",
+        "nameZh": "润唇膏",
+        "enabled": true,
+        "menuStructure": "",
+        "iconName": "icon-lipstick",
+        "media": null,
+        "displayOrder": 2,
+        "items": [
+            {
+                "id": "d71750ba-2a72-461f-a6b1-ee1aed85979d",
+                "code": "",
+                "tag": "",
+                "nameEn": "DeOld Flower Lip Balm",
+                "nameKm": "ក្រែមលាបមាត់ ចុងដោះ ",
+                "nameZh": "DeOld 花漾润唇膏",
+                "descriptionEn": "DeOld Flower Lip Balm — quality you can feel in every use. Category: Lip Balm. Rated 97/100 by our internal seeding model for demo purposes. Price: $0.99. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 0.9937888198757764,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "48266dfa-60af-4cd2-99d1-cf1233a09df2",
+                        "uri": "https://cdn.xync.co/xync-menu/4e4ff374-7ebe-4a43-9559-7a845903f84e.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 4,
+                "badges": [
+                    "Limited"
+                ],
+                "compareAtPrice": 1.31,
+                "unit": "bag",
+                "unitLabel": "/set"
+            },
+            {
+                "id": "92b66e29-ba80-40d6-a50d-8ba2c80527da",
+                "code": "",
+                "tag": "",
+                "nameEn": "J&N Lip Balm",
+                "nameKm": "ក្រែមព្យាបាលបបូរមាត់ J&N",
+                "nameZh": "J&N 润唇膏",
+                "descriptionEn": "J&N Lip Balm — quality you can feel in every use. Category: Lip Balm. Rated 36/100 by our internal seeding model for demo purposes. Price: $2.34. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 2.34,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 1,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "c287d309-83e3-4d03-af38-ae0f0d6ad6ba",
+                        "uri": "https://cdn.xync.co/xync-menu/66fa9e9f-b762-4a5c-ae22-aeedbdc1477c.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 3,
+                "badges": [
+                    "Deal"
+                ],
+                "compareAtPrice": 2.67,
+                "unit": "piece",
+                "unitLabel": "/bottle"
+            }
+        ]
+    },
+    {
+        "id": "a037647c-3f4b-466b-89dc-db9582ed63ac",
+        "nameEn": "Armpit Care",
+        "nameKm": "ផលិតផលសម្រាប់ក្លៀក",
+        "nameZh": "Armpit Care",
+        "enabled": true,
+        "menuStructure": "",
+        "iconName": "icon-cream2",
+        "media": null,
+        "displayOrder": 3,
+        "items": [
+            {
+                "id": "652c81e1-85e1-45a2-8073-596bb7ad0296",
+                "code": "",
+                "tag": "",
+                "nameEn": "Felix Armpit Small",
+                "nameKm": "ឡេលាបក្លៀកFelixតូច",
+                "nameZh": "Felix 腋下乳液（小）",
+                "descriptionEn": "Felix Armpit Small — quality you can feel in every use. Category: Armpit Care. Rated 55/100 by our internal seeding model for demo purposes. Price: $3.97. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 3.970223325062035,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "1079988b-f0c6-49a0-a07a-48f860566d92",
+                        "uri": "https://cdn.xync.co/xync-menu/1726a219-d4e1-4277-983d-87d8e99f0a1d.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 1,
+                "badges": [
+                    "Deal"
+                ],
+                "compareAtPrice": 4.99,
+                "unit": "set",
+                "unitLabel": "/piece"
+            },
+            {
+                "id": "8e591a4d-b25a-44f8-bcda-d3d67478dbb6",
+                "code": "",
+                "tag": "",
+                "nameEn": "Bela Armpit Cream Small",
+                "nameKm": "ឡេលាបក្លៀកបេឡាតូច",
+                "nameZh": "Bela 腋下霜（小号）",
+                "descriptionEn": "Bela Armpit Cream Small — quality you can feel in every use. Category: Armpit Care. Rated 16/100 by our internal seeding model for demo purposes. Price: $2.48. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 2.481389578163772,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 1,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "8cf804e0-bb43-43b6-afcc-133343a52c71",
+                        "uri": "https://cdn.xync.co/xync-menu/a233fd56-6806-4a56-91c6-be50ce109941.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 3,
+                "badges": [
+                    "New"
+                ],
+                "compareAtPrice": 3.14,
+                "unit": "set",
+                "unitLabel": "/piece"
+            }
+        ]
+    },
+    {
+        "id": "a14176b3-e4e6-4f2a-bc38-90c6b2773feb",
+        "nameEn": "Shower Cream",
+        "nameKm": "សាប៊ូទឹកដុសខ្លួន",
+        "nameZh": "沐浴露",
+        "enabled": true,
+        "menuStructure": "",
+        "iconName": "icon-x-bath-bomb--salt",
+        "media": null,
+        "displayOrder": 3,
+        "items": [
+            {
+                "id": "0b9cde3d-d3ce-488b-afb1-06b945bc739c",
+                "code": "",
+                "tag": "",
+                "nameEn": "Bosba Shower Gel (Pink)",
+                "nameKm": "សាប៊ូដុសខ្លួន បុស្បា (ផ្កាឈូក)",
+                "nameZh": "沐浴露Bosba(Pink)",
+                "descriptionEn": "Bosba Shower Gel (Pink) — quality you can feel in every use. Category: Shower Cream. Rated 68/100 by our internal seeding model for demo purposes. Price: $3.60. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 3.598014888337469,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "59dd0c72-961c-4794-a576-311dc20f930a",
+                        "uri": "https://cdn.xync.co/xync-menu/8b104ffc-f451-4464-8be3-36bdfd784633.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 3,
+                "badges": [
+                    "New"
+                ],
+                "compareAtPrice": 4.58,
+                "unit": "piece",
+                "unitLabel": "/piece"
+            },
+            {
+                "id": "f6c33ea8-5c06-482d-9b91-d279532269ba",
+                "code": "",
+                "tag": "",
+                "nameEn": "Bosba Shower Gel (Purple)",
+                "nameKm": "សាប៊ូដុសខ្លួន បុស្បា",
+                "nameZh": "沐浴露Bosba",
+                "descriptionEn": "Bosba Shower Gel (Purple) — quality you can feel in every use. Category: Shower Cream. Rated 12/100 by our internal seeding model for demo purposes. Price: $3.97. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 3.970223325062035,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "03890241-29c2-4c8d-8465-db442efd23d2",
+                        "uri": "https://cdn.xync.co/xync-menu/6c791410-8f49-4fc2-b74b-f548215776a3.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 4,
+                "badges": [
+                    "Deal"
+                ],
+                "compareAtPrice": 4.56,
+                "unit": "set",
+                "unitLabel": "/piece"
+            },
+            {
+                "id": "c6e796e0-5fc3-4ecd-8082-8267d8e99da4",
+                "code": "",
+                "tag": "",
+                "nameEn": " Cabbage​ Shower Cream",
+                "nameKm": "សាប៊ូដុសខ្លួនស្ពៃ",
+                "nameZh": "卷心菜沐浴皂",
+                "descriptionEn": "Cabbage​ Shower Cream — quality you can feel in every use. Category: Shower Cream. Rated 35/100 by our internal seeding model for demo purposes. Price: $2.36. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": null,
+                "descriptionZh": null,
+                "price": 2.357320099255583,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 1,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "b6c5a56d-ea73-405c-9619-787beeeadae1",
+                        "uri": "https://cdn.xync.co/xync-menu/611da198-0dd0-4412-a242-69b12692f8f0.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 2,
+                "badges": [
+                    "Bestseller"
+                ],
+                "compareAtPrice": 2.96,
+                "unit": "piece",
+                "unitLabel": "/box"
+            },
+            {
+                "id": "2e8700da-37ef-4419-a07d-db5512898d42",
+                "code": "",
+                "tag": "",
+                "nameEn": "Floré Shower Cream - Purple",
+                "nameKm": "សាប៊ូទឹកFloré-ស្វាយ",
+                "nameZh": "Floré沐浴露 - 紫色",
+                "descriptionEn": "Floré Shower Cream - Purple — quality you can feel in every use. Category: Shower Cream. Rated 72/100 by our internal seeding model for demo purposes. Price: $2.11. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 2.111801242236025,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 2,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "4dac245d-0687-4b35-b66e-f304f3b610af",
+                        "uri": "https://cdn.xync.co/xync-menu/fa7a2517-fcc3-45d4-8b96-54fb07863b61.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 5,
+                "badges": [
+                    "Limited"
+                ],
+                "compareAtPrice": 2.34,
+                "unit": "bag",
+                "unitLabel": "/bottle"
+            },
+            {
+                "id": "4356f36c-05da-43a6-af08-c6323b817e5a",
+                "code": "",
+                "tag": "",
+                "nameEn": "Floré Shower Cream - Pink",
+                "nameKm": "សាប៊ូទឹកFloré-ផ្កាឈូក",
+                "nameZh": "Floré沐浴露 - 粉色",
+                "descriptionEn": "Floré Shower Cream - Pink — quality you can feel in every use. Category: Shower Cream. Rated 71/100 by our internal seeding model for demo purposes. Price: $2.11. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 2.111801242236025,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 3,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "68f4f825-3a4d-4791-b806-f7d68efb1f9d",
+                        "uri": "https://cdn.xync.co/xync-menu/02db5751-a4f0-49d2-94e6-f98116260e88.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 3,
+                "badges": [
+                    "New"
+                ],
+                "compareAtPrice": 2.38,
+                "unit": "set",
+                "unitLabel": "/piece"
+            }
+        ]
+    },
+    {
+        "id": "de5bb27a-ad4c-49dd-b8b6-f8ae419ee69c",
+        "nameEn": "Hair Serum",
+        "nameKm": "ប្រេងលាបសក់",
+        "nameZh": "护发素",
+        "enabled": true,
+        "menuStructure": "",
+        "iconName": "icon-x-hair-brush",
+        "media": null,
+        "displayOrder": 3,
+        "items": [
+            {
+                "id": "2347009f-7e99-47e4-aca8-7149439229d8",
+                "code": "",
+                "tag": "",
+                "nameEn": "L'UODAIS Hair Serum",
+                "nameKm": "ប្រេងលាបសក់ថ្ម L'UODAIS",
+                "nameZh": "L'UODAIS 护发精华",
+                "descriptionEn": "L'UODAIS Hair Serum — quality you can feel in every use. Category: Hair Serum. Rated 37/100 by our internal seeding model for demo purposes. Price: $1.49. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 1.488833746898263,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "33d1d442-2a06-4e19-99e2-fcad1bcd2559",
+                        "uri": "https://cdn.xync.co/xync-menu/64234fc2-a676-4a19-ab79-77d0b99dd33b.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 2,
+                "badges": [
+                    "Limited"
+                ],
+                "compareAtPrice": 1.91,
+                "unit": "bag",
+                "unitLabel": "/bag"
+            },
+            {
+                "id": "c9f8d2a0-db8d-4002-b26d-5a8118b4f2aa",
+                "code": "",
+                "tag": "",
+                "nameEn": "Karseell Hair Oil",
+                "nameKm": "ប្រេងលាបសក់ Karseell",
+                "nameZh": "Karseell 护发油",
+                "descriptionEn": "Karseell Hair Oil — quality you can feel in every use. Category: Hair Serum. Rated 33/100 by our internal seeding model for demo purposes. Price: $4.47. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 4.472049689440994,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 1,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "ebf35a72-20b9-4f11-bc4a-c1c7876b84ee",
+                        "uri": "https://cdn.xync.co/xync-menu/45c1dd79-1e69-4dd8-b118-4efa0f4067fc.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 3,
+                "badges": [
+                    "Hot"
+                ],
+                "compareAtPrice": 5.34,
+                "unit": "bottle",
+                "unitLabel": "/piece"
+            },
+            {
+                "id": "aaec52c8-5ffb-42ff-b2ac-7bc1c3b0180a",
+                "code": "",
+                "tag": "Instock",
+                "nameEn": "Hair Essential Oil Mo Qian",
+                "nameKm": "ប្រេងលាបសក់ Mo Qian",
+                "nameZh": "Mo Qian发油",
+                "descriptionEn": "Hair Essential Oil Mo Qian — quality you can feel in every use. Category: Hair Serum. Rated 100/100 by our internal seeding model for demo purposes. Price: $0.62. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 0.6211180124223602,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 2,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "65bbafc1-eb83-4536-9551-6b0571b30817",
+                        "uri": "https://cdn.xync.co/xync-menu/3635dfca-a0f4-4886-88c4-0743cfcc3b70.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 3,
+                "badges": [
+                    "Instock"
+                ],
+                "compareAtPrice": 0.72,
+                "unit": "set",
+                "unitLabel": "/set"
+            }
+        ]
+    },
+    {
+        "id": "ef419705-e05e-4aad-85ff-f9fe9e4298a3",
+        "nameEn": "Body Lotion",
+        "nameKm": "ឡេលាបខ្លួន",
+        "nameZh": "润肤乳",
+        "enabled": true,
+        "menuStructure": "",
+        "iconName": "icon-lotion4",
+        "media": null,
+        "displayOrder": 3,
+        "items": [
+            {
+                "id": "72e562fe-986f-452c-bc3a-57897318557c",
+                "code": "",
+                "tag": "",
+                "nameEn": "Garnier Sakura Body Lotion",
+                "nameKm": "ឡេGarnierសាគូរ៉ា",
+                "nameZh": "卡尼尔樱花身体乳",
+                "descriptionEn": "Garnier Sakura Body Lotion — quality you can feel in every use. Category: Body Lotion. Rated 56/100 by our internal seeding model for demo purposes. Price: $3.72. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 3.722084367245658,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "5e5633f3-35e3-41e6-b5ef-a124c843d5c8",
+                        "uri": "https://cdn.xync.co/xync-menu/7b3f08ac-1a87-41af-811d-2b384e75b396.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 5,
+                "badges": [
+                    "Deal"
+                ],
+                "compareAtPrice": 4.39,
+                "unit": "bag",
+                "unitLabel": "/pack"
+            },
+            {
+                "id": "254dbaf7-6adc-4e82-9c47-699ab1a0fd31",
+                "code": "",
+                "tag": "",
+                "nameEn": "Vaseline Advanced Repair Lotion",
+                "nameKm": "ឡេVaseline Advanced Repair",
+                "nameZh": "凡士林高级修护乳液",
+                "descriptionEn": "Vaseline Advanced Repair Lotion — quality you can feel in every use. Category: Body Lotion. Rated 19/100 by our internal seeding model for demo purposes. Price: $3.72. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 3.722084367245658,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 1,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "3e804f75-b9d5-4d00-b144-e4b624d75377",
+                        "uri": "https://cdn.xync.co/xync-menu/b694c722-7f0a-4d92-ae15-33e1fbf298b5.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 1,
+                "badges": [
+                    "Bestseller"
+                ],
+                "compareAtPrice": 4.66,
+                "unit": "bottle",
+                "unitLabel": "/piece"
+            },
+            {
+                "id": "e9a048c5-0aeb-4ac0-a8f6-df3e76b107a6",
+                "code": "",
+                "tag": "",
+                "nameEn": "Yasaka Booster White",
+                "nameKm": "ឡេYasaku Booster White",
+                "nameZh": "Yasaka 助推器白色",
+                "descriptionEn": "Yasaka Booster White — quality you can feel in every use. Category: Body Lotion. Rated 57/100 by our internal seeding model for demo purposes. Price: $15.38. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 15.38461538461538,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 2,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "0b4ec2e1-8ddd-4bdf-b4dd-85f639fdd215",
+                        "uri": "https://cdn.xync.co/xync-menu/da81a148-3341-45ec-99fb-7dafb589d6a5.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 2,
+                "badges": [
+                    "New"
+                ],
+                "compareAtPrice": 18.01,
+                "unit": "set",
+                "unitLabel": "/piece"
+            },
+            {
+                "id": "5ed722c0-ec98-4700-a2dc-13beaf57ae48",
+                "code": "",
+                "tag": "",
+                "nameEn": "So-Y Lotion",
+                "nameKm": "ឡេ So-Y",
+                "nameZh": "So-Y 乳液",
+                "descriptionEn": "So-Y Lotion — quality you can feel in every use. Category: Body Lotion. Rated 34/100 by our internal seeding model for demo purposes. Price: $11.17. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 11.16625310173697,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 3,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "5dddfc67-6823-4b14-866d-7a57e0b6e35a",
+                        "uri": "https://cdn.xync.co/xync-menu/317f134e-9a8c-4c8c-b4f5-ebd4f4cfae24.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 1,
+                "badges": [
+                    "Deal"
+                ],
+                "compareAtPrice": 13.16,
+                "unit": "set",
+                "unitLabel": "/set"
+            },
+            {
+                "id": "a4307e7e-5644-43b5-86d1-df3d1cba5937",
+                "code": "",
+                "tag": "",
+                "nameEn": "Justeen Whitening Lotion",
+                "nameKm": "ឡេខៀវ",
+                "nameZh": "佳诗婷美白乳液",
+                "descriptionEn": "Justeen Whitening Lotion — quality you can feel in every use. Category: Body Lotion. Rated 41/100 by our internal seeding model for demo purposes. Price: $6.70. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 6.699751861042184,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 4,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "ca233e18-ad55-4548-a080-d9cd2181c0bf",
+                        "uri": "https://cdn.xync.co/xync-menu/9c7a8684-1d19-4df8-9eba-c4fdf04c95eb.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 1,
+                "badges": [
+                    "Bestseller"
+                ],
+                "compareAtPrice": 7.44,
+                "unit": "box",
+                "unitLabel": "/pack"
+            },
+            {
+                "id": "419092f8-2046-4398-a9b6-ed41279cbbcb",
+                "code": "",
+                "tag": null,
+                "nameEn": "Garnier ​Yellow Body Lotion ",
+                "nameKm": "ឡេ Garnier លឿង",
+                "nameZh": "卡尼尔黄色身体乳",
+                "descriptionEn": "Garnier ​Yellow Body Lotion — quality you can feel in every use. Category: Body Lotion. Rated 95/100 by our internal seeding model for demo purposes. Price: $2.86. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 2.86,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 5,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "fc6c74ce-a5c9-4072-a9b4-9033c1fe2996",
+                        "uri": "https://cdn.xync.co/xync-menu/bb883115-e240-48c2-99b2-1654f5c10544.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 1,
+                "badges": [
+                    "Bestseller"
+                ],
+                "compareAtPrice": 3.25,
+                "unit": "pack",
+                "unitLabel": "/bottle"
+            },
+            {
+                "id": "80630a19-9074-4fbd-a10a-7133593723cf",
+                "code": "",
+                "tag": null,
+                "nameEn": "Essura Body Lotion 500g",
+                "nameKm": "ឡេលាបខ្លួន Essura 500g",
+                "nameZh": "Essura 身体乳 500g",
+                "descriptionEn": "Essura Body Lotion 500g — quality you can feel in every use. Category: Body Lotion. Rated 94/100 by our internal seeding model for demo purposes. Price: $18.64. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 18.64,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 6,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "e0ccccf4-ffe5-4fe7-846a-6f4a738fae02",
+                        "uri": "https://cdn.xync.co/xync-menu/7e9975a1-450b-45f7-a233-1b007a4a0853.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 5,
+                "badges": [
+                    "Deal"
+                ],
+                "compareAtPrice": 24.99,
+                "unit": "pack",
+                "unitLabel": "/pack"
+            }
+        ]
+    },
+    {
+        "id": "fb509cf6-7fdf-4303-9756-3f51f82f45ef",
+        "nameEn": "Sunscreen/Sunblock/Suncream/BB",
+        "nameKm": "ឡេការពារកម្តៅថ្ងៃ",
+        "nameZh": "防晒霜/防晒霜/防晒霜",
+        "enabled": true,
+        "menuStructure": "",
+        "iconName": "icon-x-sunscreen",
+        "media": null,
+        "displayOrder": 3,
+        "items": [
+            {
+                "id": "651c7dd8-c876-427f-9df1-7dff027d938e",
+                "code": "",
+                "tag": "",
+                "nameEn": "Luxury Fix Filter",
+                "nameKm": "ការពារកម្តៅថ្ងៃLuxury",
+                "nameZh": "Luxury防晒霜",
+                "descriptionEn": "Luxury Fix Filter — quality you can feel in every use. Category: Sunscreen/Sunblock/Suncream/BB. Rated 19/100 by our internal seeding model for demo purposes. Price: $4.96. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 4.962779156327543,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "070ca470-5728-42c0-adb5-850835f5e086",
+                        "uri": "https://cdn.xync.co/xync-menu/d174e0a4-d402-42e3-b510-3d27b140902c.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 2,
+                "badges": [
+                    "Bestseller"
+                ],
+                "compareAtPrice": 6.19,
+                "unit": "bag",
+                "unitLabel": "/box"
+            },
+            {
+                "id": "39ab227c-7b4a-47a8-a643-13f1e335b587",
+                "code": "",
+                "tag": "",
+                "nameEn": "DermieCare UV Protection",
+                "nameKm": "ការពារកម្តៅថ្ងៃ DermieCare 45+",
+                "nameZh": "DermieCare 防晒霜 45+",
+                "descriptionEn": "DermieCare UV Protection — quality you can feel in every use. Category: Sunscreen/Sunblock/Suncream/BB. Rated 39/100 by our internal seeding model for demo purposes. Price: $3.60. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 3.598014888337469,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 1,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "d338d11f-c354-4a0d-b039-5ace01d34c28",
+                        "uri": "https://cdn.xync.co/xync-menu/47aaadb5-43c9-4043-b67c-86fc4ad1d763.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 1,
+                "badges": [
+                    "New"
+                ],
+                "compareAtPrice": 3.85,
+                "unit": "pack",
+                "unitLabel": "/bottle"
+            },
+            {
+                "id": "b2a8d974-2bbb-4749-87c6-3635ecc5f7fd",
+                "code": "",
+                "tag": "",
+                "nameEn": "Miss Sunflower BB Cream",
+                "nameKm": "Miss Sunflower BB Cream",
+                "nameZh": "向日葵小姐BB霜",
+                "descriptionEn": "Miss Sunflower BB Cream — quality you can feel in every use. Category: Sunscreen/Sunblock/Suncream/BB. Rated 42/100 by our internal seeding model for demo purposes. Price: $7.69. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 7.692307692307692,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 2,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "3e02fd54-8131-4d99-9196-eca5e32fffaf",
+                        "uri": "https://cdn.xync.co/xync-menu/b0b383b2-4b73-42ba-a427-cff4fbeefd37.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 3,
+                "badges": [
+                    "Limited"
+                ],
+                "compareAtPrice": 8.91,
+                "unit": "pack",
+                "unitLabel": "/piece"
+            },
+            {
+                "id": "464ffcde-5f93-4a0c-a799-ffdfd960a8c0",
+                "code": "",
+                "tag": "",
+                "nameEn": "RDR Snow Sun Cream",
+                "nameKm": "ឡេការពារកម្តៅថ្ងៃRDR Snow",
+                "nameZh": "RDR 雪防晒霜",
+                "descriptionEn": "RDR Snow Sun Cream — quality you can feel in every use. Category: Sunscreen/Sunblock/Suncream/BB. Rated 74/100 by our internal seeding model for demo purposes. Price: $4.59. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 4.590570719602978,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 3,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "79d55d64-b0ce-4772-9e4f-01847fcfff36",
+                        "uri": "https://cdn.xync.co/xync-menu/593e51c4-569d-4fb3-838f-722776999e79.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 1,
+                "badges": [
+                    "Deal"
+                ],
+                "compareAtPrice": 5.58,
+                "unit": "bottle",
+                "unitLabel": "/bag"
+            },
+            {
+                "id": "ed1f7754-7422-4cd0-967e-b5863fa5d055",
+                "code": "",
+                "tag": "",
+                "nameEn": "RDR BB UV Plus",
+                "nameKm": "ការពារកម្តៅថ្ងៃRDR BB UV Plus",
+                "nameZh": "RDR BB UV Plus",
+                "descriptionEn": "RDR BB UV Plus — quality you can feel in every use. Category: Sunscreen/Sunblock/Suncream/BB. Rated 33/100 by our internal seeding model for demo purposes. Price: $4.35. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 4.347826086956522,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 4,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "a8116e91-2051-459a-8c46-ed98ed6af314",
+                        "uri": "https://cdn.xync.co/xync-menu/8fbcaa59-0d42-4416-8565-51b283a69c13.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 5,
+                "badges": [
+                    "Limited"
+                ],
+                "compareAtPrice": 5.35,
+                "unit": "pack",
+                "unitLabel": "/bottle"
+            },
+            {
+                "id": "f4883911-25c8-4e47-a824-f9e5dc2b2185",
+                "code": "",
+                "tag": "",
+                "nameEn": "UV50+ - Orange",
+                "nameKm": "ការពារកម្តៅថ្ងៃUV50+ - ទឹកក្រូច",
+                "nameZh": "UV50+ - 橙色",
+                "descriptionEn": "UV50+ - Orange — quality you can feel in every use. Category: Sunscreen/Sunblock/Suncream/BB. Rated 97/100 by our internal seeding model for demo purposes. Price: $0.97. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 0.968944099378882,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 5,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "f70fa4e6-f1bc-42c5-8dcc-ed31241d2826",
+                        "uri": "https://cdn.xync.co/xync-menu/d0116467-fecb-4089-9bc1-67922cff1020.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 1,
+                "badges": [
+                    "New"
+                ],
+                "compareAtPrice": 1.15,
+                "unit": "pack",
+                "unitLabel": "/piece"
+            },
+            {
+                "id": "b07ccd0b-7560-49c5-91ff-8707259fd01a",
+                "code": "",
+                "tag": "",
+                "nameEn": "Luxury Collagen Suncream",
+                "nameKm": "ឡេការពារកម្តៅថ្ងៃLuxury Collagen",
+                "nameZh": "奢华胶原蛋白防晒霜",
+                "descriptionEn": "Luxury Collagen Suncream — quality you can feel in every use. Category: Sunscreen/Sunblock/Suncream/BB. Rated 3/100 by our internal seeding model for demo purposes. Price: $2.48. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 2.484472049689441,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 6,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "36f13ecd-c2ae-4e12-8f0d-97e0d45ead0c",
+                        "uri": "https://cdn.xync.co/xync-menu/7bd3868c-7b32-4748-9204-24fb9ab0d812.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 4,
+                "badges": [
+                    "Bestseller"
+                ],
+                "compareAtPrice": 3.3,
+                "unit": "pack",
+                "unitLabel": "/box"
+            }
+        ]
+    },
+    {
+        "id": "9d643b89-a289-484e-8e4d-526f9798c462",
+        "nameEn": "Herbal Balm",
+        "nameKm": "ប្រេងកូឡា",
+        "nameZh": "草药膏",
+        "enabled": true,
+        "menuStructure": "",
+        "iconName": "icon-essential-oil",
+        "media": null,
+        "displayOrder": 4,
+        "items": [
+            {
+                "id": "0ca7a5a4-33de-47c8-b78c-c7c92b4bcb8f",
+                "code": "",
+                "tag": "",
+                "nameEn": "Dragon Herbal Balm 12g",
+                "nameKm": "ប្រេងកូឡានាគ12g",
+                "nameZh": "龙草膏 12克",
+                "descriptionEn": "Dragon Herbal Balm 12g — quality you can feel in every use. Category: Herbal Balm. Rated 24/100 by our internal seeding model for demo purposes. Price: $1.07. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 1.06832298136646,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "99be61b9-bb40-4630-8d77-f4463e47897f",
+                        "uri": "https://cdn.xync.co/xync-menu/05c7f05c-1368-4261-bc2e-2cb5e637d819.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 4,
+                "badges": [
+                    "Hot"
+                ],
+                "compareAtPrice": 1.34,
+                "unit": "piece",
+                "unitLabel": "/bottle"
+            },
+            {
+                "id": "bc9dd03f-56d4-4e08-a09f-a6e01bcb858a",
+                "code": "",
+                "tag": "",
+                "nameEn": "Dragon Herbal Balm 15g",
+                "nameKm": "ប្រេងកូឡានាគ15g",
+                "nameZh": "龙草膏 15克",
+                "descriptionEn": "Dragon Herbal Balm 15g — quality you can feel in every use. Category: Herbal Balm. Rated 39/100 by our internal seeding model for demo purposes. Price: $1.19. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 1.192546583850932,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 1,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "1b3a4260-620c-4e77-93e0-359ee384062a",
+                        "uri": "https://cdn.xync.co/xync-menu/68cf8586-12e7-44f8-a543-c078295ee7cb.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 2,
+                "badges": [
+                    "Limited"
+                ],
+                "compareAtPrice": 1.4,
+                "unit": "bottle",
+                "unitLabel": "/pack"
+            }
+        ]
+    },
+    {
+        "id": "a0b604b5-7533-4666-87b4-dddf60fc5283",
+        "nameEn": "Face Mask",
+        "nameKm": "ម៉ាស់មុខ",
+        "nameZh": "口罩",
+        "enabled": true,
+        "menuStructure": "",
+        "iconName": "icon-x-face-mask",
+        "media": null,
+        "displayOrder": 5,
+        "items": [
+            {
+                "id": "730b8548-e5a9-4b21-9c66-e1d124125791",
+                "code": "",
+                "tag": "",
+                "nameEn": "Seaweed Mask",
+                "nameKm": "ម៉ាស់មុខSeaweed",
+                "nameZh": "海藻面膜",
+                "descriptionEn": "Seaweed Mask — quality you can feel in every use. Category: Face Mask. Rated 6/100 by our internal seeding model for demo purposes. Price: $1.94. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 1.937888198757764,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "ac82de67-aea0-4391-a502-257f50e79c2a",
+                        "uri": "https://cdn.xync.co/xync-menu/82440584-6330-4f28-a05c-ca6aed8818aa.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 5,
+                "badges": [
+                    "Deal"
+                ],
+                "compareAtPrice": 2.41,
+                "unit": "bag",
+                "unitLabel": "/set"
+            }
+        ]
+    },
+    {
+        "id": "e1a1d4f9-efd6-431b-92e7-9f1fb183e7d4",
+        "nameEn": "Hair Mask",
+        "nameKm": "ម៉ាស់អប់សក់",
+        "nameZh": "发膜",
+        "enabled": true,
+        "menuStructure": "",
+        "iconName": "icon-x-hair-brush",
+        "media": null,
+        "displayOrder": 8,
+        "items": [
+            {
+                "id": "83362945-b83e-4d70-b583-784e84a34cca",
+                "code": "",
+                "tag": "",
+                "nameEn": "Saifa Hair Mask - Brown",
+                "nameKm": "សៃហ្វា នាងរំសាយសក់",
+                "nameZh": "Saifa Hair Mask - Brown",
+                "descriptionEn": "Saifa Hair Mask - Brown — quality you can feel in every use. Category: Hair Mask. Rated 37/100 by our internal seeding model for demo purposes. Price: $1.44. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 1.440993788819876,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "31562ab6-6e3f-4eca-b553-45e38e76f8a0",
+                        "uri": "https://cdn.xync.co/xync-menu/24ff937c-c8db-4984-9163-9b6d6bc858f6.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 1,
+                "badges": [
+                    "Limited"
+                ],
+                "compareAtPrice": 1.72,
+                "unit": "set",
+                "unitLabel": "/set"
+            },
+            {
+                "id": "64c2485e-38a9-4efb-8b87-62736fd71bbc",
+                "code": "",
+                "tag": "",
+                "nameEn": "Saifa Hair Mask - Lemon",
+                "nameKm": "ម៉ាស់អប់សក់សៃហ្វា-ក្រូច",
+                "nameZh": "Saifa 发膜 - 柠檬",
+                "descriptionEn": "Saifa Hair Mask - Lemon — quality you can feel in every use. Category: Hair Mask. Rated 16/100 by our internal seeding model for demo purposes. Price: $1.44. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 1.440993788819876,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 1,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "bc37e499-bfd2-4cc4-8070-a14d838a46d7",
+                        "uri": "https://cdn.xync.co/xync-menu/02620c80-29f6-48f6-b005-8cdc3043a774.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 3,
+                "badges": [
+                    "New"
+                ],
+                "compareAtPrice": 1.67,
+                "unit": "bottle",
+                "unitLabel": "/piece"
+            }
+        ]
+    },
+    {
+        "id": "ff93a603-3068-4e87-8f0a-bc4680ceff4b",
+        "nameEn": "Body Spa",
+        "nameKm": "ស្ពាខ្លួន",
+        "nameZh": "身体水疗",
+        "enabled": true,
+        "menuStructure": "",
+        "iconName": "icon-spa",
+        "media": null,
+        "displayOrder": 10,
+        "items": [
+            {
+                "id": "f39cace7-8ca5-47ea-88ce-e27d136fd5a5",
+                "code": "",
+                "tag": "",
+                "nameEn": "Miss Ice Spa",
+                "nameKm": "ស្ពាMissទឹកកក",
+                "nameZh": "Miss冰水疗",
+                "descriptionEn": "Miss Ice Spa — quality you can feel in every use. Category: Body Spa. Rated 77/100 by our internal seeding model for demo purposes. Price: $1.57. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 1.565217391304348,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "f8abb443-0fa9-46b9-9a59-81bf4e3db88f",
+                        "uri": "https://cdn.xync.co/xync-menu/d5437641-7b91-43d8-be90-6335b56dab9e.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 1,
+                "badges": [
+                    "Bestseller"
+                ],
+                "compareAtPrice": 2.03,
+                "unit": "bottle",
+                "unitLabel": "/bag"
+            }
+        ]
+    },
+    {
+        "id": "0725adaa-4513-427a-a303-cae223932088",
+        "nameEn": "Body Soap",
+        "nameKm": "សាប៊ូដុំដុសខ្លួន",
+        "nameZh": "沐浴露",
+        "enabled": true,
+        "menuStructure": "",
+        "iconName": "icon-x-soap",
+        "media": null,
+        "displayOrder": 11,
+        "items": [
+            {
+                "id": "f7ad319a-65c8-4aaf-a126-ef2378e3648f",
+                "code": "",
+                "tag": "",
+                "nameEn": "Parrot Soap Green (6pax)",
+                "nameKm": "សាប៊ូសេកបៃតង (កន្លះឡូ)",
+                "nameZh": "鹦鹉香皂绿色（6 件）",
+                "descriptionEn": "Parrot Soap Green (6pax) — quality you can feel in every use. Category: Body Soap. Rated 54/100 by our internal seeding model for demo purposes. Price: $1.27. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 1.267080745341615,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "c6c4f55f-4624-4f5e-9b88-445bd612d56f",
+                        "uri": "https://cdn.xync.co/xync-menu/b7cbb3f6-e3b7-493f-8eb1-870c2df464ee.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 2,
+                "badges": [
+                    "Deal"
+                ],
+                "compareAtPrice": 1.33,
+                "unit": "set",
+                "unitLabel": "/box"
+            }
+        ]
+    },
+    {
+        "id": "40842772-4079-447b-ab50-dcb8801e51a5",
+        "nameEn": "Beauty Supplies",
+        "nameKm": "ផលិតផលជំនួសសម្រស់",
+        "nameZh": "美容用品",
+        "enabled": true,
+        "menuStructure": "",
+        "iconName": "icon-x-herbal-supplement",
+        "media": null,
+        "displayOrder": 12,
+        "items": [
+            {
+                "id": "6952c68f-907a-4d3d-ba75-836d59b97ff0",
+                "code": "",
+                "tag": "",
+                "nameEn": "Symono Collagen x3",
+                "nameKm": "ឆុងខូឡាជេន Symono",
+                "nameZh": "Symono 胶原蛋白 x3",
+                "descriptionEn": "Symono Collagen x3 — quality you can feel in every use. Category: Beauty Supplies. Rated 85/100 by our internal seeding model for demo purposes. Price: $4.22. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 4.22360248447205,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "ab3fe201-99d0-41cd-92c5-cb80b2c26d52",
+                        "uri": "https://cdn.xync.co/xync-menu/cde10ee8-fc6d-450e-b2c1-6f4e8bc2c9f3.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 2,
+                "badges": [
+                    "Hot"
+                ],
+                "compareAtPrice": 5.08,
+                "unit": "bag",
+                "unitLabel": "/set"
+            },
+            {
+                "id": "3088d38f-6193-418f-bc40-30cb794caa83",
+                "code": "",
+                "tag": "",
+                "nameEn": "Beauty Fruit Detox Plum",
+                "nameKm": "ដំណាប់សម្រក Beauty Fruit",
+                "nameZh": "美容水果排毒李子",
+                "descriptionEn": "Beauty Fruit Detox Plum — quality you can feel in every use. Category: Beauty Supplies. Rated 100/100 by our internal seeding model for demo purposes. Price: $2.78. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 2.782608,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 1,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "41274cfa-d02a-49fb-898d-382a83dfb078",
+                        "uri": "https://cdn.xync.co/xync-menu/e94d0b9b-223b-40eb-8acf-96df233f6e25.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 3,
+                "badges": [
+                    "New"
+                ],
+                "compareAtPrice": 3.52,
+                "unit": "pack",
+                "unitLabel": "/set"
+            },
+            {
+                "id": "6a55f56b-5319-4e27-aa19-22d883978d56",
+                "code": "",
+                "tag": "",
+                "nameEn": "Zoso Beauty Jelly",
+                "nameKm": "ចាហួយស្វាយZoso",
+                "nameZh": "Zoso 美容果冻",
+                "descriptionEn": "Zoso Beauty Jelly — quality you can feel in every use. Category: Beauty Supplies. Rated 28/100 by our internal seeding model for demo purposes. Price: $2.61. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 2.608695,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 2,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "6d3ef938-ac08-4a8e-8ebd-6f71d46f9db7",
+                        "uri": "https://cdn.xync.co/xync-menu/504c6e92-df20-4d26-bbf5-7fc4c2877afc.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 3,
+                "badges": [
+                    "Bestseller"
+                ],
+                "compareAtPrice": 3.09,
+                "unit": "bag",
+                "unitLabel": "/bottle"
+            }
+        ]
+    },
+    {
+        "id": "e751c8c7-b94c-4768-bb32-41d5bbbda362",
+        "nameEn": "Sheet Mask",
+        "nameKm": "ម៉ាស់សន្លឹកបិតមុខ",
+        "nameZh": "面膜",
+        "enabled": true,
+        "menuStructure": "",
+        "iconName": "icon-x-face-mask",
+        "media": null,
+        "displayOrder": 17,
+        "items": [
+            {
+                "id": "ffed16f9-76d8-485f-9ac9-f6318e17141c",
+                "code": "",
+                "tag": "",
+                "nameEn": "2in1 Sheet Mask",
+                "nameKm": "ម៉ាស់សន្លឹក2in1",
+                "nameZh": "2in1 面膜",
+                "descriptionEn": "2in1 Sheet Mask — quality you can feel in every use. Category: Sheet Mask. Rated 68/100 by our internal seeding model for demo purposes. Price: $3.43. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 3.428571428571429,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "7a4eb3ef-4df4-4bb4-9568-dafa5b803d95",
+                        "uri": "https://cdn.xync.co/xync-menu/180c0a4a-ae41-4a03-86c1-9511ca1cecb3.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 4,
+                "badges": [
+                    "Bestseller"
+                ],
+                "compareAtPrice": 4.58,
+                "unit": "set",
+                "unitLabel": "/box"
+            },
+            {
+                "id": "6b686d88-d335-4fb7-bbb6-cea35bb43912",
+                "code": "",
+                "tag": "",
+                "nameEn": "RDR Collagen Mask",
+                "nameKm": "ម៉ាស់បិតមុខRDR",
+                "nameZh": "RDR 胶原蛋白面膜",
+                "descriptionEn": "RDR Collagen Mask — quality you can feel in every use. Category: Sheet Mask. Rated 27/100 by our internal seeding model for demo purposes. Price: $5.34. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 5.341614906832298,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 1,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "5ead78c6-d2b8-460e-aed7-cc5f00075071",
+                        "uri": "https://cdn.xync.co/xync-menu/a6cfa4e3-873c-4cd7-b11e-82b653920557.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 4,
+                "badges": [
+                    "Bestseller"
+                ],
+                "compareAtPrice": 6.06,
+                "unit": "bottle",
+                "unitLabel": "/set"
+            },
+            {
+                "id": "7cbae4fe-48e2-4021-a3b8-bcbc91f69fdf",
+                "code": "",
+                "tag": "",
+                "nameEn": "Lucaci Acnes Mask 1Box=10pax",
+                "nameKm": "ម៉ាស់សន្លឹក Lucaci បៃតង ១ប្រ=១០សន្លឹក",
+                "nameZh": "Lucaci 祛痘面膜 1盒=10片",
+                "descriptionEn": "Lucaci Acnes Mask 1Box=10pax — quality you can feel in every use. Category: Sheet Mask. Rated 83/100 by our internal seeding model for demo purposes. Price: $4.45. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 4.447204968944099,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 2,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "580c6ff8-c2d2-4a9f-abee-67b7fca484c0",
+                        "uri": "https://cdn.xync.co/xync-menu/44fb4772-b1b3-4863-9da5-79e2abc58cee.webp",
+                        "fullUrl": null
+                    },
+                    {
+                        "id": "fd5064c0-d2a5-4870-a2e3-73d1ecd22e8b",
+                        "uri": "https://cdn.xync.co/xync-menu/7f0c51c2-ee31-4a72-a29a-c136520db14d.webp",
+                        "fullUrl": null
+                    },
+                    {
+                        "id": "a2c186e7-5efc-40a7-b788-8e71e45bb717",
+                        "uri": "https://cdn.xync.co/xync-menu/9a7704ca-2c02-4e9d-8ca8-b764d6100ccb.webp",
+                        "fullUrl": null
+                    },
+                    {
+                        "id": "805838ad-b552-4615-a02f-890f5da75026",
+                        "uri": "https://cdn.xync.co/xync-menu/0839d21c-e378-466b-8bcc-a390ac135c8c.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 3,
+                "badges": [
+                    "Bestseller"
+                ],
+                "compareAtPrice": 5.18,
+                "unit": "piece",
+                "unitLabel": "/piece"
+            }
+        ]
+    },
+    {
+        "id": "8afbdb45-0365-45d8-9657-d0b24451adfb",
+        "nameEn": "Body Powder",
+        "nameKm": "ម៉្សៅហ៊ុយលាបខ្លួន",
+        "nameZh": "身体粉",
+        "enabled": true,
+        "menuStructure": "",
+        "iconName": "icon-x-protein-powder",
+        "media": null,
+        "displayOrder": 19,
+        "items": [
+            {
+                "id": "53a4cf96-45a4-43de-8013-ef258b3da497",
+                "code": "",
+                "tag": "Instock",
+                "nameEn": "Bhaesaj Powder 30B",
+                "nameKm": "ម៉្សៅផេសាត់ 30B",
+                "nameZh": "巴萨杰粉 30B",
+                "descriptionEn": "Bhaesaj Powder 30B — quality you can feel in every use. Category: Body Powder. Rated 39/100 by our internal seeding model for demo purposes. Price: $1.05. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 1.05,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "f99baec2-cdfb-4c99-aece-993f6eb7dd8f",
+                        "uri": "https://cdn.xync.co/xync-menu/4b74f932-190a-4d5f-8945-ca838a1fe1fe.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 3,
+                "badges": [
+                    "Instock"
+                ],
+                "compareAtPrice": 1.13,
+                "unit": "bag",
+                "unitLabel": "/set"
+            },
+            {
+                "id": "7f73f19b-4449-4126-bcd6-38f23305a295",
+                "code": "",
+                "tag": "Instock",
+                "nameEn": "Bhaesaj Powder 40B",
+                "nameKm": "ម៉្សៅផេសាត់ 40B",
+                "nameZh": "巴萨杰粉 40B",
+                "descriptionEn": "Bhaesaj Powder 40B — quality you can feel in every use. Category: Body Powder. Rated 87/100 by our internal seeding model for demo purposes. Price: $1.30. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 1.3,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 1,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "2a0d1595-cafa-4ed2-86b0-3e55f147ddc4",
+                        "uri": "https://cdn.xync.co/xync-menu/58f7a749-89bf-4713-b0e1-49c9d902a0ef.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 3,
+                "badges": [
+                    "Instock"
+                ],
+                "compareAtPrice": 1.73,
+                "unit": "pack",
+                "unitLabel": "/pack"
+            }
+        ]
+    },
+    {
+        "id": "8ea21a94-f0da-4e59-b9a2-9f34a6828e9b",
+        "nameEn": "Face Soap",
+        "nameKm": "សាប៊ូលាងមុខ",
+        "nameZh": "洗脸皂",
+        "enabled": true,
+        "menuStructure": "",
+        "iconName": "icon-x-soap",
+        "media": null,
+        "displayOrder": 20,
+        "items": [
+            {
+                "id": "63eebb1d-879d-4cfd-8140-0ca830c64d7f",
+                "code": "",
+                "tag": "Instock",
+                "nameEn": "EK Beauty Silk Soap",
+                "nameKm": "សាប៊ូសូត្រមាស",
+                "nameZh": "EK Beauty 丝绸香皂",
+                "descriptionEn": "EK Beauty Silk Soap — quality you can feel in every use. Category: Face Soap. Rated 86/100 by our internal seeding model for demo purposes. Price: $3.85. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 3.85,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "8ea70891-0c66-4166-a2e9-5ce532e1e784",
+                        "uri": "https://cdn.xync.co/xync-menu/17f9dd20-1832-4fe0-8e9b-bd80d501f182.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 4,
+                "badges": [
+                    "Instock"
+                ],
+                "compareAtPrice": 4.25,
+                "unit": "box",
+                "unitLabel": "/bag"
+            }
+        ]
+    },
+    {
+        "id": "9c1ce395-2d5d-44eb-82cb-095ddb8f57d2",
+        "nameEn": "Hair Color",
+        "nameKm": "ថ្នាំពណ៌លាបសក់",
+        "nameZh": "头发颜色",
+        "enabled": true,
+        "menuStructure": "",
+        "iconName": "icon-hair-straightener1",
+        "media": null,
+        "displayOrder": 21,
+        "items": [
+            {
+                "id": "e863c7a0-d486-4934-b95d-7b89ef15fc2f",
+                "code": "",
+                "tag": "Instock",
+                "nameEn": "Lolane M1",
+                "nameKm": "ថ្នាំលាបសក់ ឡូឡែន M1",
+                "nameZh": "Lolane M1",
+                "descriptionEn": "Lolane M1 — quality you can feel in every use. Category: Hair Color. Rated 67/100 by our internal seeding model for demo purposes. Price: $0.92. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 0.9192546583850932,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "4a26ac70-bc86-4040-9323-d79abb383d2b",
+                        "uri": "https://cdn.xync.co/xync-menu/008afc6c-28da-4f80-af84-61e1cbced0fd.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 1,
+                "badges": [
+                    "Instock"
+                ],
+                "compareAtPrice": 1.14,
+                "unit": "bag",
+                "unitLabel": "/bag"
+            }
+        ]
+    },
+    {
+        "id": "aac59458-5c21-4ff9-9694-c29142b35be0",
+        "nameEn": "Goat Milk Shower Cream",
+        "nameKm": "សាប៊ូដុសខ្លួនពពែ",
+        "nameZh": "山羊奶沐浴露",
+        "enabled": true,
+        "menuStructure": "",
+        "iconName": "icon-bath",
+        "media": null,
+        "displayOrder": 23,
+        "items": [
+            {
+                "id": "187aade0-7774-417b-bd89-77bead2ac839",
+                "code": "",
+                "tag": "",
+                "nameEn": "Feira Shower Cream 1150ml",
+                "nameKm": "សាប៊ូពពែFeira 1150ml",
+                "nameZh": "菲拉沐浴露 1150ml",
+                "descriptionEn": "Feira Shower Cream 1150ml — quality you can feel in every use. Category: Goat Milk Shower Cream. Rated 78/100 by our internal seeding model for demo purposes. Price: $4.10. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 4.099378,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "73cdf37f-84a0-4e12-855b-40bf4921a750",
+                        "uri": "https://cdn.xync.co/xync-menu/2aa81dac-12fe-4bd5-a15e-1aaef0541cca.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 1,
+                "badges": [
+                    "Deal"
+                ],
+                "compareAtPrice": 5.44,
+                "unit": "set",
+                "unitLabel": "/set"
+            },
+            {
+                "id": "1fdb6c53-b5f3-4fa3-80fc-9a3c1add9e0e",
+                "code": "",
+                "tag": "",
+                "nameEn": "Feira Goat Milk 250ml",
+                "nameKm": "សាប៊ូពពែ Feira 250ml",
+                "nameZh": "菲拉羊奶粉 250毫升",
+                "descriptionEn": "Feira Goat Milk 250ml — quality you can feel in every use. Category: Goat Milk Shower Cream. Rated 76/100 by our internal seeding model for demo purposes. Price: $1.22. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 1.22,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 1,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "23b673f6-8fef-412a-adcd-b6ae043a6af1",
+                        "uri": "https://cdn.xync.co/xync-menu/aa590866-42de-4ba2-8e4e-2f649a92d819.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 2,
+                "badges": [
+                    "Hot"
+                ],
+                "compareAtPrice": 1.42,
+                "unit": "set",
+                "unitLabel": "/set"
+            }
+        ]
+    },
+    {
+        "id": "cc899c63-425e-4abb-af9b-cf78f4c0954b",
+        "nameEn": "Body Bleaching Cream",
+        "nameKm": "ខាត់ស្បែក",
+        "nameZh": "身体漂白霜",
+        "enabled": true,
+        "menuStructure": "",
+        "iconName": "icon-body-oil",
+        "media": null,
+        "displayOrder": 25,
+        "items": [
+            {
+                "id": "527630af-edab-4b19-8568-1abb361a7727",
+                "code": "",
+                "tag": "",
+                "nameEn": "Nual Anong Bleaching Orange",
+                "nameKm": "ខាត់ស្បែក នួនអាណុង ក្រូច",
+                "nameZh": "Nual Anong 漂白橙子",
+                "descriptionEn": "Nual Anong Bleaching Orange — quality you can feel in every use. Category: Body Bleaching Cream. Rated 76/100 by our internal seeding model for demo purposes. Price: $2.61. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 2.608695,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "d7761686-84c3-4b01-b9be-d83198f08351",
+                        "uri": "https://cdn.xync.co/xync-menu/46f0341a-780e-4acd-950c-ddb56037d6af.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 5,
+                "badges": [
+                    "Hot"
+                ],
+                "compareAtPrice": 3.26,
+                "unit": "bottle",
+                "unitLabel": "/box"
+            },
+            {
+                "id": "8681554b-2f22-4916-82d3-fe4c41c6f993",
+                "code": "",
+                "tag": "",
+                "nameEn": "Diti Bleaching Cream",
+                "nameKm": "ខាត់ស្បែកDiti",
+                "nameZh": "Diti 漂白霜",
+                "descriptionEn": "Diti Bleaching Cream — quality you can feel in every use. Category: Body Bleaching Cream. Rated 27/100 by our internal seeding model for demo purposes. Price: $3.33. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 3.329192,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 1,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "c71f0b8b-6cdc-4cf9-995d-9fbcb5b3a032",
+                        "uri": "https://cdn.xync.co/xync-menu/2d7b76a9-50f0-4736-8481-a15799527750.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 2,
+                "badges": [
+                    "Limited"
+                ],
+                "compareAtPrice": 3.83,
+                "unit": "bottle",
+                "unitLabel": "/piece"
+            }
+        ]
+    },
+    {
+        "id": "d1566eb4-49f8-4fe3-b584-85048817f673",
+        "nameEn": "Feminine Wash",
+        "nameKm": "ទឹកអនាម័យ",
+        "nameZh": "女性洗液",
+        "enabled": true,
+        "menuStructure": "",
+        "iconName": "icon-woman",
+        "media": null,
+        "displayOrder": 26,
+        "items": [
+            {
+                "id": "010d3076-2598-4383-8e13-e1c6b8987d39",
+                "code": "",
+                "tag": "",
+                "nameEn": "PH Purple 50ml",
+                "nameKm": "ទឹកអនាម័យPHស្វាយ50ml",
+                "nameZh": "PH紫色 50毫升",
+                "descriptionEn": "PH Purple 50ml — quality you can feel in every use. Category: Feminine Wash. Rated 48/100 by our internal seeding model for demo purposes. Price: $1.61. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 1.614906,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "208cda7d-db47-42b6-bed7-1dcb853c593a",
+                        "uri": "https://cdn.xync.co/xync-menu/aac4832d-bf18-4a55-b7be-f9ddc979351b.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 5,
+                "badges": [
+                    "Bestseller"
+                ],
+                "compareAtPrice": 1.74,
+                "unit": "bag",
+                "unitLabel": "/pack"
+            },
+            {
+                "id": "92a206ce-ab15-41d2-8892-c0680a65c867",
+                "code": "",
+                "tag": "",
+                "nameEn": "PH Green 50ml",
+                "nameKm": "ទឹកអនាម័យPHបៃតង50ml",
+                "nameZh": "PH 绿 50ml",
+                "descriptionEn": "PH Green 50ml — quality you can feel in every use. Category: Feminine Wash. Rated 95/100 by our internal seeding model for demo purposes. Price: $1.61. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 1.614906,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 1,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "f05c46dc-af87-40c5-b6cd-672650fed0f6",
+                        "uri": "https://cdn.xync.co/xync-menu/1eae03ee-b170-4df1-8d01-c7f5358a0811.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 1,
+                "badges": [
+                    "New"
+                ],
+                "compareAtPrice": 1.94,
+                "unit": "piece",
+                "unitLabel": "/bag"
+            }
+        ]
+    },
+    {
+        "id": "eedd9f58-a21c-4ec7-8794-386736a10b23",
+        "nameEn": "Coffee",
+        "nameKm": "កាហ្វេសម្រក",
+        "nameZh": "咖啡",
+        "enabled": true,
+        "menuStructure": "",
+        "iconName": "icon-x-hot-coffee",
+        "media": null,
+        "displayOrder": 29,
+        "items": [
+            {
+                "id": "4c4db903-a253-4396-86b8-33596518eb53",
+                "code": "",
+                "tag": "Instock",
+                "nameEn": "Alinda Coffee S",
+                "nameKm": "កាហ្វេសម្រក Alinda Coffee S ",
+                "nameZh": "减肥咖啡 Alinda Coffee S ",
+                "descriptionEn": "Alinda Coffee S — quality you can feel in every use. Category: Coffee. Rated 18/100 by our internal seeding model for demo purposes. Price: $5.84. Fast shipping, friendly support, and easy returns in our demo store.",
+                "descriptionKm": "",
+                "descriptionZh": "",
+                "price": 5.84,
+                "stock": 0,
+                "enableStock": false,
+                "enableLimitOrder": false,
+                "maxOrder": 1,
+                "minOrder": 1,
+                "salePrice": null,
+                "type": "ITEM",
+                "categoryCount": 0,
+                "secondaryPrice": null,
+                "status": 1,
+                "displayOrder": 0,
+                "createdOn": "0001-01-01T00:00:00",
+                "storeIds": [
+                    "30a20548-f985-40e5-b3fd-ad158ec3e532"
+                ],
+                "medias": [
+                    {
+                        "id": "5fc1c84f-1847-4efe-8925-3dccca1b36c5",
+                        "uri": "https://cdn.xync.co/xync-menu/4066e46d-4302-4ff7-b55e-d62c0a1581f7.webp",
+                        "fullUrl": null
+                    }
+                ],
+                "addonIds": [],
+                "attributeIds": [],
+                "hasAttribute": false,
+                "rating": 4,
+                "badges": [
+                    "Instock"
+                ],
+                "compareAtPrice": 6.78,
+                "unit": "bag",
+                "unitLabel": "/set"
+            }
+        ]
+    }
+]

@@ -1,0 +1,301 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["postgresqlExtensions"]
+}
+
+datasource db {
+  provider   = "postgresql"
+  url        = env("DATABASE_URL")
+  extensions = [pgcrypto, citext]
+}
+
+enum UserRole {
+  USER
+  ADMIN
+}
+
+enum AuthProvider {
+  EMAIL
+  GOOGLE
+  FACEBOOK
+  PHONE
+}
+
+enum VerificationType {
+  EMAIL_VERIFY
+  PASSWORD_RESET
+  EMAIL_LOGIN // for code-based login if you want
+}
+
+model User {
+  id        String   @id @default(cuid())
+  email     String?  @unique // might be null for pure social until we get it
+  phone     String?  @unique
+  fullName  String
+  avatarUrl String?
+  role      UserRole @default(USER)
+  isActive  Boolean  @default(true)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  // relations
+  accounts  Account[]
+  sessions  Session[]
+  addresses Address[]
+  carts     Cart[]
+  wishlists WishlistItem[]
+  orders    Order[]
+
+  @@index([fullName])
+}
+
+model Account {
+  id             String       @id @default(cuid())
+  userId         String
+  provider       AuthProvider
+  providerUserId String // Phone, Google sub, Facebook id, or email for EMAIL
+  email          String? // provider’s email (if given)
+  phone          String?
+  passwordHash   String? // only for EMAIL
+  accessToken    String? // optional token snapshot
+  refreshToken   String? // optional
+  expiresAt      DateTime?
+  lastLoginAt    DateTime?    @default(now())
+  createdAt      DateTime     @default(now())
+  updatedAt      DateTime     @updatedAt
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([provider, providerUserId]) // one provider identity only once
+  @@index([userId])
+  @@index([email])
+}
+
+model Session {
+  id           String   @id @default(cuid())
+  userId       String
+  token        String   @unique // access or opaque session token
+  refreshToken String?  @unique
+  userAgent    String?
+  ip           String?
+  expiresAt    DateTime
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId, expiresAt])
+}
+
+model VerificationCode {
+  id         String           @id @default(cuid())
+  identifier String // email or user id
+  type       VerificationType
+  code       String
+  expiresAt  DateTime
+  usedAt     DateTime?
+  createdAt  DateTime         @default(now())
+
+  @@unique([identifier, type, code])
+  @@index([identifier, type, expiresAt])
+}
+
+model Address {
+  id         String   @id @default(cuid())
+  userId     String
+  label      String? // Home, Office…
+  receiver   String
+  phone      String
+  line1      String
+  line2      String?
+  city       String
+  state      String?
+  postalCode String?
+  country    String
+  isDefault  Boolean  @default(false)
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId, isDefault])
+}
+
+//////////////////////////////////////
+// Catalog
+//////////////////////////////////////
+
+model Category {
+  id        String   @id @default(cuid())
+  name      String
+  slug      String   @unique
+  parentId  String?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  parent   Category?  @relation("CategoryToCategory", fields: [parentId], references: [id], onDelete: SetNull)
+  children Category[] @relation("CategoryToCategory")
+  products Product[]
+
+  @@index([parentId])
+  @@index([name])
+}
+
+model Product {
+  id             String   @id @default(cuid())
+  name           String
+  slug           String   @unique
+  sku            String?  @unique
+  brand          String?
+  description    String?  @db.Text
+  price          Decimal  @db.Decimal(10, 2)
+  compareAtPrice Decimal? @db.Decimal(10, 2) // for discounts
+  currency       String   @default("USD")
+  unit           String? // "bag", "kg", "piece"
+  unitLabel      String? // "/600g", "/bag"
+  weightGrams    Int?
+  lengthMm       Int?
+  widthMm        Int?
+  heightMm       Int?
+  attributes     Json? // arbitrary key/value (color, size…)
+  badges         String[] // Postgres text[] (e.g., {"Deal","New"})
+  rating         Decimal? @db.Decimal(3, 2) // 0–5.00
+  reviewCount    Int      @default(0)
+  stock          Int      @default(0) // simple inventory
+  isActive       Boolean  @default(true)
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+
+  // FKs
+  categoryId String?
+  category   Category? @relation(fields: [categoryId], references: [id], onDelete: SetNull)
+
+  // relations
+  images        ProductImage[]
+  cartItems     CartItem[]
+  wishlistItems WishlistItem[]
+  orderItems    OrderItem[]
+
+  @@index([name])
+  @@index([categoryId])
+}
+
+model ProductImage {
+  id        String   @id @default(cuid())
+  productId String
+  url       String
+  alt       String?
+  pos       Int      @default(0)
+  createdAt DateTime @default(now())
+
+  product Product @relation(fields: [productId], references: [id], onDelete: Cascade)
+
+  @@index([productId, pos])
+}
+
+//////////////////////////////////////
+// Cart & Wishlist
+//////////////////////////////////////
+
+enum CartStatus {
+  OPEN
+  CHECKED_OUT
+  ABANDONED
+}
+
+model Cart {
+  id          String     @id @default(cuid())
+  userId      String?
+  sessionId   String? // support guests
+  status      CartStatus @default(OPEN)
+  subtotal    Decimal    @default(0) @db.Decimal(10, 2)
+  discount    Decimal    @default(0) @db.Decimal(10, 2)
+  deliveryFee Decimal    @default(0) @db.Decimal(10, 2)
+  total       Decimal    @default(0) @db.Decimal(10, 2)
+  currency    String     @default("USD")
+  createdAt   DateTime   @default(now())
+  updatedAt   DateTime   @updatedAt
+
+  user  User?      @relation(fields: [userId], references: [id], onDelete: SetNull)
+  items CartItem[]
+
+  @@index([userId, status])
+  @@index([sessionId])
+}
+
+model CartItem {
+  id        String   @id @default(cuid())
+  cartId    String
+  productId String
+  qty       Int      @default(1)
+  unitPrice Decimal  @db.Decimal(10, 2) // snapshot at add-time
+  currency  String   @default("USD")
+  addedAt   DateTime @default(now())
+
+  cart    Cart    @relation(fields: [cartId], references: [id], onDelete: Cascade)
+  product Product @relation(fields: [productId], references: [id], onDelete: Restrict)
+
+  @@unique([cartId, productId]) // one row per product per cart
+  @@index([productId])
+}
+
+model WishlistItem {
+  id        String   @id @default(cuid())
+  userId    String
+  productId String
+  createdAt DateTime @default(now())
+
+  user    User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+  product Product @relation(fields: [productId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, productId])
+  @@index([productId])
+}
+
+//////////////////////////////////////
+// Orders (kept from earlier, tweaked)
+//////////////////////////////////////
+
+enum OrderStatus {
+  PENDING
+  PAID
+  SHIPPED
+  COMPLETED
+  CANCELLED
+}
+
+model Order {
+  id        String      @id @default(cuid())
+  code      String      @unique
+  userId    String?
+  total     Decimal     @db.Decimal(10, 2)
+  status    OrderStatus @default(PENDING)
+  createdAt DateTime    @default(now())
+  updatedAt DateTime    @updatedAt
+
+  user  User?       @relation(fields: [userId], references: [id], onDelete: SetNull)
+  items OrderItem[]
+
+  @@index([userId, status])
+}
+
+model OrderItem {
+  id        String  @id @default(cuid())
+  orderId   String
+  productId String
+  qty       Int
+  unitPrice Decimal @db.Decimal(10, 2)
+  currency  String  @default("USD")
+
+  order   Order   @relation(fields: [orderId], references: [id], onDelete: Cascade)
+  product Product @relation(fields: [productId], references: [id], onDelete: Restrict)
+
+  @@index([orderId])
+  @@index([productId])
+}
